@@ -4,10 +4,840 @@
     "course": "Speech-Language Pathology",
     "created": "2026-08-07T00:00:29.217Z"
   },
-  "modules": [],
-  "glossary": [],
-  "flashcards": [],
-  "questions": [],
-  "notes": [],
+  "modules": [
+    {
+      "id": "mod-1",
+      "name": "Module 1: Communication Foundations",
+      "desc": "Week 1 review — what communication is, speech vs. language, the communication framework, the process/subsystems of speech production, the Bloom & Lahey taxonomy, the speech chain, and the auditory feedback loop.",
+      "chapters": [
+        "1"
+      ],
+      "created": "2026-08-17T10:52:52"
+    }
+  ],
+  "glossary": [
+    {
+      "id": "ch1-ppt-g004",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Articulation",
+      "def": "The production of speech sounds (\"the producers of speech sounds\"), carried out by the lips, teeth, tongue, alveolar ridge, hard palate, soft palate, and mandible. One of the four components of speech.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g022",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Auditory feedback loop",
+      "def": "The self-monitoring cycle of speech: I say it → I hear it → I process it → I modify it.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g017",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Bloom & Lahey Taxonomy of Language",
+      "def": "A model describing language as three intersecting dimensions: Form, Content, and Use.",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g001",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Communication",
+      "def": "The process of exchanging information, ideas, thoughts, and feelings between individuals. Communication can be intended or unintended, and communication methods are ever-changing.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g019",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Content (Bloom & Lahey)",
+      "def": "The dimension of language covering semantics (meaning).",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g013",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Expressive language",
+      "def": "The production side of language — conveying messages through speaking and writing.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g006",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Fluency",
+      "def": "The rate, rhythm, and continuity (smooth flow) of speech. One of the four components of speech.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g018",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Form (Bloom & Lahey)",
+      "def": "The dimension of language covering syntax, morphology, and phonology.",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g003",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Language",
+      "def": "A rule-based cognitive system of symbols used for communicating. Language has both expressive and receptive components, is governed primarily by left-hemisphere brain structures, and is learned.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g024",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Laryngeal system",
+      "def": "The larynx, which serves as the sound source (voice) for speech.",
+      "source": "Kent (1997), The Speech Sciences",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g009",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Morphology",
+      "def": "The study of word structure and morphemes (the smallest units of meaning). A component of Form in the Bloom & Lahey taxonomy.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g026",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Motor pathways",
+      "def": "The nerve pathways that carry signals from the brain (the \"computer center\") out to the muscles of speech.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g015",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Phonation",
+      "def": "\"The noise source\" of speech, produced by vibration of the vocal folds of the larynx.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g005",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Phonology",
+      "def": "The sound system of a language and the rules governing how speech sounds are organized and combined. A component of speech and part of Form in the Bloom & Lahey taxonomy.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g011",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Pragmatics",
+      "def": "The social use of language in context (also called discourse). In the Bloom & Lahey taxonomy, pragmatics is the Use dimension.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g012",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Receptive language",
+      "def": "The comprehension side of language — understanding through listening and reading.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g016",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Resonation",
+      "def": "\"The tone shapers\" of speech, occurring in the pharynx, mouth, and nasal cavities.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g014",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Respiration",
+      "def": "In speech production, \"the power supply.\" Inhalation uses the thoracic muscles and exhalation uses the abdominal muscles to provide the airflow that powers speech.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g025",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Respiratory system (speech)",
+      "def": "The trachea and lungs, which supply the breath support that powers speech.",
+      "source": "Kent (1997), The Speech Sciences",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g008",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Semantics",
+      "def": "The study of meaning in language (words and sentences). In the Bloom & Lahey taxonomy, semantics is the Content dimension.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g027",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Sensory pathways",
+      "def": "The nerve pathways that carry feedback from the speech mechanism and ear back to the brain.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g002",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Speech",
+      "def": "The physiological (motor) act of producing and manipulating sound; often defined as \"the oral expression of language.\" Speech relies on the lungs, larynx, and oral and nasal structures, and is generally considered innate.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g023",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-supralaryngeal-system.png",
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Supralaryngeal system",
+      "def": "The upper airway (pharyngeal-oral-nasal system) used in speech production, including the nasal cavity, oral cavity, pharyngeal cavity, lips, tongue, and jaw.",
+      "source": "Kent (1997), The Speech Sciences",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g010",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Syntax",
+      "def": "The rules governing word order and sentence structure. A component of Form in the Bloom & Lahey taxonomy.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g021",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-speech-chain.png",
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "The Speech Chain",
+      "def": "Denes & Pinson's model describing the different forms a spoken message takes as it travels from the speaker's mind to the listener's mind, passing through linguistic, physiological, and acoustic levels.",
+      "source": "Denes & Pinson (1973), The Speech Chain",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g020",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Use (Bloom & Lahey)",
+      "def": "The dimension of language covering pragmatics and discourse (social use).",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-g007",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "term": "Voice",
+      "def": "The vocal characteristics produced by the larynx, including pitch, loudness, and quality. One of the four components of speech.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ch1-ppt-f001",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What are the four components of SPEECH in the communication framework?",
+      "back": "Articulation, Phonology, Fluency, and Voice.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f002",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What are the four components of LANGUAGE in the communication framework?",
+      "back": "Semantics, Morphology, Syntax, and Pragmatics.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f003",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Speech vs. Language: which is a physiological process and which is a cognitive process?",
+      "back": "Speech is a physiological (motor) process; language is a cognitive process.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f004",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Speech is described as \"innate\"; language is described as ___.",
+      "back": "Learned. (Speech = innate; language = learned.)",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f005",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What are the two components of receptive language?",
+      "back": "Listening and reading (comprehension).",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f006",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What are the two components of expressive language?",
+      "back": "Speaking and writing (production).",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f007",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-process-of-speech.png",
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "List the four subsystems of speech production from power source upward.",
+      "back": "Respiration (power supply) → Phonation (noise source) → Resonation (tone shapers) → Articulation (producers of speech sounds).",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f008",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "In the Process of Speech, what is the role of RESPIRATION?",
+      "back": "The power supply — inhalation via thoracic muscles, exhalation via abdominal muscles.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f009",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "In the Process of Speech, what is the role of PHONATION?",
+      "back": "The noise source — vibration of the vocal folds of the larynx.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f010",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "In the Process of Speech, what is the role of RESONATION?",
+      "back": "The tone shapers — pharynx, mouth, and nasal cavities.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f011",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "In the Process of Speech, what is the role of ARTICULATION?",
+      "back": "The producers of speech sounds — lips, teeth, tongue, alveolar ridge, hard palate, soft palate, and mandible.",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f012",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What three dimensions make up the Bloom & Lahey Taxonomy of Language?",
+      "back": "Form, Content, and Use.",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f013",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Bloom & Lahey: what falls under FORM?",
+      "back": "Syntax, morphology, and phonology.",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f014",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Bloom & Lahey: what falls under CONTENT?",
+      "back": "Semantics (meaning).",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f015",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Bloom & Lahey: what falls under USE?",
+      "back": "Pragmatics / discourse.",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f016",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-supralaryngeal-system.png",
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What three subsystems of speech production are shown in Kent's (1997) supralaryngeal diagram?",
+      "back": "The supralaryngeal (pharyngeal-oral-nasal) system, the laryngeal system, and the respiratory system.",
+      "source": "Kent (1997), The Speech Sciences",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f017",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "What are the four steps of the auditory feedback loop?",
+      "back": "I say it → I hear it → I process it → I modify it.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f018",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-speech-chain.png",
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "In the Speech Chain (Denes & Pinson), what levels does a message pass through from speaker to listener?",
+      "back": "Linguistic → Physiological → Acoustic → Physiological → Linguistic level.",
+      "source": "Denes & Pinson (1973), The Speech Chain",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-f019",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "front": "Communication can be intended or ___.",
+      "back": "Unintended.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ch1-ppt-q001",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "Which of the following is a component of SPEECH (not language) in the communication framework?",
+      "options": [
+        "Articulation",
+        "Semantics",
+        "Syntax",
+        "Pragmatics"
+      ],
+      "answer": "Articulation",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q002",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "Which term refers to the social use of language in context?",
+      "options": [
+        "Pragmatics",
+        "Phonology",
+        "Morphology",
+        "Semantics"
+      ],
+      "answer": "Pragmatics",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q003",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "In the \"Process of Speech,\" which subsystem is described as the power supply?",
+      "options": [
+        "Respiration",
+        "Phonation",
+        "Resonation",
+        "Articulation"
+      ],
+      "answer": "Respiration",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q004",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "Vibration of the vocal folds of the larynx is known as:",
+      "options": [
+        "Phonation",
+        "Respiration",
+        "Resonation",
+        "Articulation"
+      ],
+      "answer": "Phonation",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q005",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "In the Bloom & Lahey taxonomy, semantics belongs to which dimension of language?",
+      "options": [
+        "Content",
+        "Form",
+        "Use",
+        "Fluency"
+      ],
+      "answer": "Content",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q006",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "Which structures are responsible for articulation (the producers of speech sounds)?",
+      "options": [
+        "Lips, teeth, tongue, and palate",
+        "Lungs and diaphragm",
+        "Vocal folds of the larynx",
+        "Pharynx and nasal cavity"
+      ],
+      "answer": "Lips, teeth, tongue, and palate",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q007",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "mc",
+      "text": "Receptive language includes which two skills?",
+      "options": [
+        "Listening and reading",
+        "Speaking and writing",
+        "Speaking and listening",
+        "Reading and writing"
+      ],
+      "answer": "Listening and reading",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q008",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "tf",
+      "text": "Speech is best described as a cognitive process, while language is a physiological process.",
+      "answer": "False",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q009",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "tf",
+      "text": "Communication can be either intended or unintended.",
+      "answer": "True",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q010",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "tf",
+      "text": "In the Bloom & Lahey taxonomy, phonology is part of Form.",
+      "answer": "True",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q011",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "tf",
+      "text": "Expressive language includes speaking and writing.",
+      "answer": "True",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q012",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "tf",
+      "text": "Language is primarily governed by right-hemisphere brain structures.",
+      "answer": "False",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q013",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "fitb",
+      "text": "The four components of speech are articulation, phonology, fluency, and ______.",
+      "answer": "voice",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q014",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "fitb",
+      "text": "\"The oral expression of language\" is a definition of ______.",
+      "answer": "speech",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q015",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "fitb",
+      "text": "The self-monitoring cycle \"I say it, I hear it, I process it, I modify it\" is called the ______ feedback loop.",
+      "answer": "auditory",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q016",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "fitb",
+      "text": "In the Process of Speech, the pharynx, mouth, and nasal cavities act as tone shapers — a function called ______.",
+      "answer": "resonation",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q017",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "fitb",
+      "text": "Denes and Pinson's model of how a message travels from speaker to listener is called the ______.",
+      "answer": "speech chain",
+      "source": "Denes & Pinson (1973), The Speech Chain",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q018",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "match",
+      "text": "Match each speech-production subsystem to its role.",
+      "pairs": [
+        [
+          "Respiration",
+          "Power supply"
+        ],
+        [
+          "Phonation",
+          "Noise source"
+        ],
+        [
+          "Resonation",
+          "Tone shapers"
+        ],
+        [
+          "Articulation",
+          "Producers of speech sounds"
+        ]
+      ],
+      "answer": "",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q019",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "match",
+      "text": "Match each Bloom & Lahey dimension to its language component(s).",
+      "pairs": [
+        [
+          "Form",
+          "Syntax, morphology, phonology"
+        ],
+        [
+          "Content",
+          "Semantics"
+        ],
+        [
+          "Use",
+          "Pragmatics / discourse"
+        ]
+      ],
+      "answer": "",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q020",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "match",
+      "text": "Match each communication term to its description.",
+      "pairs": [
+        [
+          "Speech",
+          "Physiological process"
+        ],
+        [
+          "Language",
+          "Cognitive process"
+        ],
+        [
+          "Receptive language",
+          "Comprehension (listening & reading)"
+        ],
+        [
+          "Expressive language",
+          "Production (speaking & writing)"
+        ]
+      ],
+      "answer": "",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q021",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "sa",
+      "text": "Explain the difference between speech and language, and give one example of a structure or process involved in each.",
+      "answer": "Speech is the physiological/motor act of producing and manipulating sound (e.g., using the vocal folds, lips, and tongue) — the oral expression of language. Language is a rule-based cognitive system of symbols used to communicate (e.g., applying syntax rules to build a sentence), with expressive and receptive components. Speech is generally considered innate; language is learned.",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q022",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "sa",
+      "text": "List the four subsystems of speech production in order (from the power source upward) and give the role of each.",
+      "answer": "1) Respiration — the power supply (inhalation via thoracic muscles, exhalation via abdominal muscles). 2) Phonation — the noise source (vocal folds of the larynx). 3) Resonation — the tone shapers (pharynx, mouth, nasal cavities). 4) Articulation — the producers of speech sounds (lips, teeth, tongue, alveolar ridge, hard/soft palate, mandible).",
+      "source": "Hulit, Fahey & Howard (2015), Born to Talk",
+      "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch1-ppt-q023",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "type": "sa",
+      "text": "Describe the Bloom & Lahey taxonomy of language, naming all three dimensions and what each contains.",
+      "answer": "The Bloom & Lahey taxonomy models language as three intersecting dimensions: Form (syntax, morphology, phonology), Content (semantics/meaning), and Use (pragmatics/discourse — the social use of language).",
+      "source": "Bloom & Lahey (Taxonomy of Language)",
+      "created": "2026-08-17T10:52:52"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch1-ppt-note001",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "title": "Module 1 — Communication Foundations (Study Notes)",
+      "body": "MODULE 1: COMMUNICATION FOUNDATIONS — STUDY NOTES\n(COMM DIS 3: Therapy Analysis and Observations — Week 1 Review)\n\n======================================================\n1. WHAT IS COMMUNICATION?\n======================================================\n• Communication = the process of exchanging information, ideas, thoughts, and feelings.\n• Communication can be INTENDED or UNINTENDED.\n• Communication methods are ever-changing (speech, writing, gesture, sign, AAC, digital, etc.).\n\n======================================================\n2. SPEECH vs. LANGUAGE  (Speech = INNATE  |  Language = LEARNED)\n======================================================\nSPEECH\n• Physiological (motor) process.\n• The act of creating and manipulating sound.\n• \"The oral expression of language.\"\n• Structures: lungs, larynx, oral and nasal structures.\n\nLANGUAGE\n• Cognitive process.\n• A rule-based system for communicating.\n• Has expressive AND receptive components.\n• Governed by left-hemisphere brain structures.\n\n======================================================\n3. COMMUNICATION FRAMEWORK (components)\n======================================================\nSPEECH components:      Articulation • Phonology • Fluency • Voice\nLANGUAGE components:    Semantics • Morphology • Syntax • Pragmatics\n\n======================================================\n4. THE PROCESS OF SPEECH  (Hulit, Fahey & Howard, 2015)\n======================================================\nSignal flow: BRAIN (\"the computer center\") coordinates via MOTOR pathways (out) and SENSORY pathways (feedback in).\nFrom the power source upward:\n\n• RESPIRATION — the power supply\n    Inhalation: thoracic muscles | Exhalation: abdominal muscles\n• PHONATION — the noise source\n    Vocal folds of the larynx\n• RESONATION — the tone shapers\n    Pharynx, mouth, and nasal cavities\n• ARTICULATION — the producers of speech sounds\n    Lips, teeth, tongue, alveolar ridge, hard palate, soft palate, and mandible\n\nThree speech-production subsystems (Kent, 1997):\n• Supralaryngeal / pharyngeal-oral-nasal system (upper airway): nasal cavity, oral cavity, pharyngeal cavity, lips, tongue, jaw\n• Laryngeal system: the larynx\n• Respiratory system: trachea and lungs\n\n======================================================\n5. EXPRESSIVE vs. RECEPTIVE LANGUAGE\n======================================================\nRECEPTIVE (Comprehension):   Listening • Reading\nEXPRESSIVE (Production):      Speaking • Writing\n\n======================================================\n6. BLOOM & LAHEY TAXONOMY OF LANGUAGE  (Form ∩ Content ∩ Use)\n======================================================\n• FORM — Syntax, Morphology, Phonology\n• CONTENT — Semantics\n• USE — Pragmatics / Discourse\n\n======================================================\n7. THE SPEECH CHAIN  (Denes & Pinson, 1973)\n======================================================\nThe forms a spoken message takes from the speaker's mind to the listener's mind:\n• Speaker: BRAIN → motor nerves → vocal muscles → sound waves\n• Listener: ear → sensory nerves → BRAIN\n• A FEEDBACK LINK lets the speaker monitor their own output.\nLevels the message passes through:\n   Linguistic → Physiological → Acoustic → Physiological → Linguistic\n\n======================================================\n8. AUDITORY FEEDBACK LOOP\n======================================================\nI say it → I hear it → I process it → I modify it → (repeat)\n\n======================================================\n★ KEY EXAM POINTS\n======================================================\n★ Speech = physiological/motor & innate; Language = cognitive & learned.\n★ Speech components: Articulation, Phonology, Fluency, Voice.\n★ Language components: Semantics, Morphology, Syntax, Pragmatics.\n★ Process of speech (bottom-up): Respiration → Phonation → Resonation → Articulation.\n★ Match the \"role\" phrases: power supply / noise source / tone shapers / producers of speech sounds.\n★ Receptive = listening + reading (comprehension); Expressive = speaking + writing (production).\n★ Bloom & Lahey: FORM (syntax/morphology/phonology), CONTENT (semantics), USE (pragmatics).\n★ Language is left-hemisphere.\n★ The Speech Chain levels: Linguistic → Physiological → Acoustic → Physiological → Linguistic.\n★ Auditory feedback loop: say → hear → process → modify.\n",
+      "source": "Module 1 Review (COMM DIS 3 lecture slides)",
+      "created": "2026-08-17T10:52:52",
+      "updated": "2026-08-17T10:52:52"
+    }
+  ],
   "questionStats": {}
 }
