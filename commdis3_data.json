@@ -22,6 +22,15 @@
         "2"
       ],
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "mod-4",
+      "name": "Module 4: Therapy Approaches, HIPAA & Communication Milestones",
+      "desc": "Clinician-directed vs. naturalistic therapy approaches; HIPAA and patient confidentiality for SLPA students/interns; and developmental communication milestones (Oller, Sander, phonological processes, Brown's MLU stages, red flags).",
+      "chapters": [
+        "4"
+      ],
+      "created": "2026-10-08T04:14:55"
     }
   ],
   "glossary": [
@@ -86,6 +95,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch4-tx-g014",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Brown's Stages of Language Development",
+      "def": "Brown's five stages linking age, MLU, and grammatical milestones: Stage I (12-26mo, MLU 1.0-2.0) through Stage V+ (47+mo, MLU 4.5+).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g019",
       "image": null,
       "module": "mod-2",
@@ -94,6 +113,16 @@
       "def": "Certified Speech-Language Pathology Assistant — the credential earned through ASHA's Assistants Certification Program (launched December 2020).",
       "source": "ASHA (2022), SLPA Scope of Practice",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-tx-g002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Canonical babbling",
+      "def": "Oller's Stage 4 (7-9 months): CV syllables with adult-like timing, including reduplicated syllables like /baba/ and /mama/.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch2-ppt-g004",
@@ -114,6 +143,26 @@
       "def": "A minimum 9-month period of mentored professional experience completed after graduate coursework; a supervising SLP must have completed the CFY plus additional experience before supervising an SLPA.",
       "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-g001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Clinician-directed approach",
+      "def": "A therapy approach in which the clinician controls the session — choosing activities, targets, reinforcers, and what counts as a successful response — and elicits specific (imitative or spontaneous) responses. Strategies include drill and drill play.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Cluster reduction",
+      "def": "A phonological process: omitting one or more consonants in a cluster (e.g., clean → /kin/). Without /s/: gone by ~4; with /s/: gone by ~5. Persists after 3.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g001",
@@ -156,6 +205,26 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch4-ppt-g013",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "De-identification",
+      "def": "Removing information that identifies an individual (names, site references) from notes/logs so that client privacy is protected — required when taking observation notes.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-g009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Decontextualized language",
+      "def": "Language practiced apart from natural communicative context — a limitation of the clinician-directed approach that can make generalization difficult.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g006",
       "image": null,
       "module": "mod-2",
@@ -164,6 +233,26 @@
       "def": "In-view (on-site or live/synchronous telesupervision) observation and guidance while the SLPA is performing a clinical activity, allowing immediate feedback. Reviewing a recorded session later does NOT count as direct supervision.",
       "source": "ASHA (2022), SLPA Scope of Practice",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-g003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Drill",
+      "def": "A clinician-directed strategy using many structured repetitions of a target.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-g004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Drill play",
+      "def": "A clinician-directed strategy that adds a playful/motivating element to structured drill.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch2-ppt-g022",
@@ -196,6 +285,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch4-tx-g007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Final consonant deletion",
+      "def": "A phonological process: omitting a singleton consonant at the end of a word (e.g., cat → /kæ/). Typically gone by ~3 years.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch1-ppt-g006",
       "image": null,
       "module": "mod-1",
@@ -204,6 +303,16 @@
       "def": "The rate, rhythm, and continuity (smooth flow) of speech. One of the four components of speech.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch4-ppt-g008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Focused language stimulation",
+      "def": "A naturalistic strategy in which the clinician repeatedly models a target form in meaningful contexts.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g018",
@@ -224,6 +333,46 @@
       "def": "Under California regulation, at least 30 hours per week. An SLP is recommended to supervise no more than three FTE SLPAs.",
       "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-g010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Generalization",
+      "def": "Carryover of a learned skill to new contexts; the naturalistic approach supports it well (especially in later therapy stages), while it is harder with clinician-directed drill.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Gliding",
+      "def": "A phonological process: substituting /w/ or /j/ for another consonant, typically a liquid (e.g., run → /wʌn/). Gliding of initial liquids typically gone by ~7 years.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g015",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Grammatical morpheme",
+      "def": "The smallest meaningful unit that signals grammatical meaning (e.g., present progressive -ing, plural -s, possessive -'s, past tense -ed); emerge in Brown's Stage II onward.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-g011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "HIPAA",
+      "def": "Health Insurance Portability and Accountability Act — passed in 1996 and updated in 2003 to improve the flow of patient health information while protecting patients' privacy rights.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch2-tx-g001",
@@ -256,6 +405,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch4-ppt-g005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Indirect language stimulation",
+      "def": "A naturalistic strategy in which the clinician models language around the child's focus without demanding a response.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g007",
       "image": null,
       "module": "mod-2",
@@ -286,6 +445,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch4-tx-g013",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Mean Length of Utterance (MLU)",
+      "def": "The average number of morphemes per utterance; a reliable predictor of language complexity that increases ~1.2 morphemes/year from 18 months to age 5 (Owens, 1996).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g014",
       "image": null,
       "module": "mod-2",
@@ -294,6 +463,26 @@
       "def": "Describes an acutely ill patient in an unstable health condition. Treatment of a medically fragile client by an SLPA requires 100% direct supervision by the SLP.",
       "source": "ASHA (2022), SLPA Scope of Practice",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-g006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Milieu teaching",
+      "def": "A naturalistic strategy that embeds brief teaching episodes in the natural environment following the child's lead.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-g014",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Minimum necessary",
+      "def": "The HIPAA principle of accessing only the medical/background information needed to perform one's job.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g009",
@@ -326,6 +515,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch4-ppt-g002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Naturalistic approach",
+      "def": "A therapy approach delivered in the natural environment following typical communication patterns, where the client helps select activities and the clinician models/stresses targets with no demand for a response. Strategies include indirect language stimulation, milieu teaching, script therapy, and focused language stimulation.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-tx-g007",
       "image": null,
       "module": "mod-2",
@@ -336,6 +535,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch4-tx-g001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Oller's stages of prelinguistic development",
+      "def": "Oller (1980) describes five stages of early vocal development: (1) Phonation (birth-1mo), (2) Cooing/Gooing (2-3mo), (3) Exploration/Expansion (4-6mo), (4) Canonical babbling (7-9mo), (5) Variegated babbling (10-12mo).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch1-ppt-g015",
       "image": null,
       "module": "mod-1",
@@ -344,6 +553,16 @@
       "def": "\"The noise source\" of speech, produced by vibration of the vocal folds of the larynx.",
       "source": "Hulit, Fahey & Howard (2015), Born to Talk",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch4-tx-g006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Phonological process",
+      "def": "A systematic, rule-governed simplification of adult speech sound patterns in child speech (e.g., fronting, stopping, cluster reduction).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g005",
@@ -386,6 +605,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch4-ppt-g012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Protected health information (PHI)",
+      "def": "Patient/client/student health and background information that must be kept confidential; SLPAs access only what they need to do their job and secure all files.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g020",
       "image": null,
       "module": "mod-2",
@@ -414,6 +643,36 @@
       "def": "The comprehension side of language — understanding through listening and reading.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch4-tx-g017",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Red flags in communication development",
+      "def": "Warning signs of possible speech/language problems at given ages (e.g., no babbling by 9mo, not pointing by 12mo, no first word by 15mo, vocabulary <50 words at 24mo, strangers can't understand at 36mo).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Reduplicated babbling",
+      "def": "Repeating the same CV syllable (e.g., /baba/); characteristic of canonical babbling.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Reduplication",
+      "def": "A phonological process: repeating phonemes or syllables (e.g., bottle → /bɔbɔ/). Disappears by ~3 years.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g016",
@@ -446,6 +705,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch4-tx-g005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Sander's order of speech-sound acquisition",
+      "def": "Sander (1972): nasals (m, n, ng) and stops (p, b, t, d, k, g) and glides (w, y) are acquired earliest, followed by fricatives (f, v, s, z, sh, zh) and voiced/voiceless 'th', affricates (ch, j), then liquids (l, r). Voiced/voiceless 'th' are generally the latest phonemes.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g002",
       "image": null,
       "module": "mod-2",
@@ -464,6 +733,16 @@
       "def": "A pass-fail procedure to identify individuals who may need further assessment. An SLPA may administer and score screenings, but clinical interpretation is done by the SLP.",
       "source": "ASHA (2022), SLPA Scope of Practice",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-g007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Script therapy",
+      "def": "A naturalistic strategy using familiar, predictable event routines (scripts) to support language.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch2-ppt-g013",
@@ -516,6 +795,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch4-tx-g016",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Speech intelligibility expectations",
+      "def": "Typical percentage of speech understood by an unfamiliar listener by age: 19-24mo = 25-50%; 2-3yr = 50-75%; 4-5yr = 75-90%; 5+yr = 90-100% (Peña-Brooks & Hegde, 2007).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
       "id": "ch2-ppt-g001",
       "image": null,
       "module": "mod-2",
@@ -534,6 +823,16 @@
       "def": "SLPA entry requirements differ by state — e.g., California accepts an associate's (SLPA-accredited/board-approved) OR a bachelor's in CSD/SLP; other states specify their own degree, practicum, and supervision rules.",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-tx-g010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Stopping",
+      "def": "A phonological process: substituting a stop for a fricative, liquid, nasal, or glide (e.g., sun → /dʌn/). Persists after 3.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch2-ppt-g003",
@@ -604,6 +903,26 @@
       "def": "The dimension of language covering pragmatics and discourse (social use).",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch4-tx-g003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Variegated babbling",
+      "def": "Oller's Stage 5 (10-12 months): different CV syllables combined (e.g., /bamaga/), with adult-like intonation and prosody.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-g008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "term": "Velar fronting",
+      "def": "A phonological process: substituting a front sound for a back (velar) sound (e.g., can → /tæn/). Fronting of initial velars typically gone by ~4 years.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     },
     {
       "id": "ch1-ppt-g007",
@@ -1046,6 +1365,246 @@
       "back": "Know your scope of practice, keep learning/observe other clinicians, don't give up, ask questions, and specialize to set yourself apart.",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-f001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What characterizes the CLINICIAN-DIRECTED approach?",
+      "back": "The clinician controls the session — chooses activities, targets, reinforcers, and defines a successful response — and elicits specific imitative or spontaneous responses (drill, drill play).",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What characterizes the NATURALISTIC approach?",
+      "back": "Therapy in the natural environment following typical communication patterns; the client helps select activities; the clinician models/stresses targets with no demand for a response (indirect language stimulation, milieu teaching, script therapy, focused language stimulation).",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Advantages of the clinician-directed approach?",
+      "back": "Good for introducing/teaching a new skill; efficient (many repetitions); easier to plan and take data; works well for articulation, phonology, morphology, and syntax.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Disadvantages of the clinician-directed approach?",
+      "back": "Some clients can't tolerate it; doesn't follow typical communication patterns; language is decontextualized; generalization is difficult; not great for semantics, pragmatics, fluency.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Advantages of the naturalistic approach?",
+      "back": "Motivation, sustained attention, treatment efficacy, caregiver participation/coaching, strong generalization (great for later stages), and good for semantics/pragmatics (contextualized).",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Disadvantages of the naturalistic approach?",
+      "back": "Less efficient at targeting specific responses; hard to get repetitions; hard to plan and take data; not great for initial stages of articulation/phonology therapy.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What four factors help you CHOOSE a therapy approach?",
+      "back": "Age of the client, social abilities of the client, goals, and where the client is in the therapeutic process.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What does HIPAA stand for and when was it enacted?",
+      "back": "Health Insurance Portability and Accountability Act — passed 1996, updated 2003; protects patient privacy while improving the flow of health information.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What three rights does HIPAA give patients?",
+      "back": "To request access to their health information, request that providers amend it, and request restrictions on information sharing.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "As SLPAs/SLPs, what are our core confidentiality duties?",
+      "back": "Treat client info as confidential; don't discuss clients outside the facility; access only info needed for the job; get permission before sharing with anyone; keep files secure.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Name four HIPAA-compliant practices.",
+      "back": "Any four: don't share logins/passwords; keep paper files locked; don't travel with files (or protect them completely); don't access info on family/friends; don't store client pictures/info on your phone; don't discuss clients in public; don't approach clients/families in public; don't engage with them on social media.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-f012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "When taking observation notes, how do you protect client identity?",
+      "back": "De-identify individuals — remove names (use initials or an assigned ID #) and site references so no one can be identified.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Name Oller's five stages of prelinguistic vocal development.",
+      "back": "(1) Phonation (birth-1mo), (2) Cooing/Gooing (2-3mo), (3) Exploration/Expansion (4-6mo), (4) Canonical babbling (7-9mo), (5) Variegated babbling (10-12mo).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "In what general order are speech sounds acquired (Sander, 1972)?",
+      "back": "Nasals + stops + glides earliest → fricatives + 'th' → affricates → liquids (l, r). Voiced/voiceless 'th' are generally the latest.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Which phonological processes typically DISAPPEAR by age 3?",
+      "back": "Unstressed syllable deletion, final consonant deletion, diminutization, velar fronting, consonant assimilation, reduplication, prevocalic voicing.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Which phonological processes typically PERSIST after age 3?",
+      "back": "Cluster reduction, epenthesis, gliding, vocalization, stopping, depalatalization, final consonant devoicing.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What is MLU and why does it matter?",
+      "back": "Mean Length of Utterance — the average number of morphemes per utterance; a reliable predictor of language complexity that increases ~1.2 morphemes/year from 18mo to age 5.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Brown's Stage I: age, MLU, and milestones?",
+      "back": "12-26 months; MLU 1.0-2.0; uses 1-, 2-, 3-word utterances, intonation for yes/no questions, limited wh- questions.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What are the speech intelligibility expectations by age?",
+      "back": "19-24mo: 25-50%; 2-3yr: 50-75%; 4-5yr: 75-90%; 5+yr: 90-100% understood by an unfamiliar listener.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Which grammatical morphemes emerge earliest (Brown)?",
+      "back": "Present progressive -ing emerges first (19-28mo), then regular plural -s, possessive -'s, and present-tense auxiliaries (29-38mo).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Name three red flags for a 12-month-old.",
+      "back": "Does not point to objects; does not use gestures such as waving or shaking head. (Also from nearby ages: limited/no babbling by 9mo, no first word by 15mo.)",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Red flag at 24 months?",
+      "back": "A vocabulary of fewer than 50 words and/or decreased interest in social interactions.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "What order do pronouns generally emerge?",
+      "back": "I and it first, then you; most subjective and objective pronouns by age 3 and possessive pronouns by age 5 (Owens).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-f012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "front": "Give an example of velar fronting and when it resolves.",
+      "back": "Velar fronting substitutes a front sound for a back sound (can → /tæn/); fronting of initial velars typically resolves by ~4 years.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     }
   ],
   "questions": [
@@ -1893,9 +2452,674 @@
       "answer": "Common threads: thoroughly understand your scope of practice; keep learning and observe other clinicians; specialize to set yourself apart; ask questions ('there are no wrong questions'); be a team player; and persevere ('don't give up' / 'hang in there').",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch4-ppt-q001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which is a characteristic of the clinician-directed approach?",
+      "options": [
+        "The clinician chooses activities, targets, and reinforcers",
+        "Therapy follows the child's lead",
+        "No response is expected from the client",
+        "It happens only in the natural environment"
+      ],
+      "answer": "The clinician chooses activities, targets, and reinforcers",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which strategy belongs to the NATURALISTIC approach?",
+      "options": [
+        "Milieu teaching",
+        "Drill",
+        "Drill play",
+        "Massed imitative trials"
+      ],
+      "answer": "Milieu teaching",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "The clinician-directed approach works BEST for targeting:",
+      "options": [
+        "Articulation and phonology",
+        "Pragmatics",
+        "Semantics",
+        "Fluency"
+      ],
+      "answer": "Articulation and phonology",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "A key advantage of the naturalistic approach is:",
+      "options": [
+        "Generalization",
+        "Ease of data collection",
+        "Many repetitions",
+        "Easy planning"
+      ],
+      "answer": "Generalization",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "HIPAA was originally passed in:",
+      "options": [
+        "1996",
+        "2003",
+        "1986",
+        "2010"
+      ],
+      "answer": "1996",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which is a HIPAA-compliant practice?",
+      "options": [
+        "Keeping paper files in a locked cabinet",
+        "Storing client photos on your personal phone",
+        "Discussing clients in a cafe",
+        "Friending a client's family on social media"
+      ],
+      "answer": "Keeping paper files in a locked cabinet",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which factor should guide your choice of therapy approach?",
+      "options": [
+        "Where the client is in the therapeutic process",
+        "The clinic's paint color",
+        "The day of the week",
+        "The SLP's lunch schedule"
+      ],
+      "answer": "Where the client is in the therapeutic process",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "A disadvantage of the clinician-directed approach is that language is:",
+      "options": [
+        "Decontextualized",
+        "Too motivating",
+        "Caregiver-led",
+        "Delivered at home"
+      ],
+      "answer": "Decontextualized",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "In the naturalistic approach, the clinician demands a specific response from the client.",
+      "answer": "False",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "HIPAA gives patients the right to request access to their own health information.",
+      "answer": "True",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "The clinician-directed approach is generally easier for taking data.",
+      "answer": "True",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "It is acceptable to store client photos on your personal cell phone if you delete them later.",
+      "answer": "False",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q013",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "The naturalistic approach is well-suited to targeting semantics and pragmatics.",
+      "answer": "True",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q014",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "The therapy approach in which the clinician controls activities, targets, and reinforcers is the ______-directed approach.",
+      "answer": "clinician",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q015",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "HIPAA stands for the Health Insurance Portability and ______ Act.",
+      "answer": "Accountability",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q016",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "When taking observation notes you must ______ individuals you write about.",
+      "answer": "de-identify",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q017",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "A naturalistic strategy using familiar, predictable event routines is called ______ therapy.",
+      "answer": "script",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q018",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "match",
+      "text": "Match each approach to a strategy it uses.",
+      "pairs": [
+        [
+          "Clinician-directed",
+          "Drill play"
+        ],
+        [
+          "Naturalistic",
+          "Milieu teaching"
+        ]
+      ],
+      "answer": "",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q019",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "match",
+      "text": "Match each approach to a strength.",
+      "pairs": [
+        [
+          "Clinician-directed",
+          "Efficient repetitions for articulation"
+        ],
+        [
+          "Naturalistic",
+          "Generalization & motivation"
+        ]
+      ],
+      "answer": "",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q020",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "sa",
+      "text": "Compare and contrast the clinician-directed and naturalistic therapy approaches.",
+      "answer": "Clinician-directed: the clinician controls the session (activities, targets, reinforcers, success criteria) and elicits specific responses via drill/drill play; efficient, easy to plan and take data, and strong for articulation/phonology/morphology/syntax, but decontextualized with difficult generalization and poor fit for semantics/pragmatics/fluency. Naturalistic: occurs in the natural environment following typical communication patterns with the client helping select activities and the clinician modeling targets (indirect language stimulation, milieu teaching, script therapy, focused language stimulation); strong motivation, caregiver participation, and generalization and good for semantics/pragmatics, but less efficient, harder to get repetitions, and harder to plan/take data.",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q021",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "sa",
+      "text": "HIPAA scenario: An SLPA meets their supervisor at a cafe and, while using no names, shows the supervisor a student's clinic log to share progress. What's the HIPAA problem?",
+      "answer": "Discussing/displaying client records in a public setting violates confidentiality. Even without names, a clinic log is protected health information and should not be shown or discussed in a public place like a cafe; case discussions belong in a private, secure setting.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-q022",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "sa",
+      "text": "HIPAA scenario: An SLP needs client photos for an art project but the clinic iPads are in use, so she takes the pictures on her personal phone and emails them to herself. What's the HIPAA problem?",
+      "answer": "Storing client images/information on a personal device and emailing PHI to a personal account violates HIPAA. Client photos are PHI and must be captured and stored only on secure, approved facility equipment, not personal phones or personal email.",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "In Oller's stages, canonical babbling (e.g., /baba/, /mama/) occurs at:",
+      "options": [
+        "7-9 months",
+        "2-3 months",
+        "birth-1 month",
+        "10-12 months"
+      ],
+      "answer": "7-9 months",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "According to Sander (1972), which sounds are generally acquired LAST?",
+      "options": [
+        "Voiced/voiceless 'th'",
+        "Nasals (m, n)",
+        "Stops (p, b)",
+        "Glides (w, y)"
+      ],
+      "answer": "Voiced/voiceless 'th'",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q003",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which phonological process typically disappears by age 3?",
+      "options": [
+        "Final consonant deletion",
+        "Cluster reduction",
+        "Gliding",
+        "Stopping"
+      ],
+      "answer": "Final consonant deletion",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q004",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "'Run' produced as /wʌn/ is an example of:",
+      "options": [
+        "Gliding",
+        "Stopping",
+        "Fronting",
+        "Cluster reduction"
+      ],
+      "answer": "Gliding",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q005",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "In Brown's stages, Stage I corresponds to an MLU of:",
+      "options": [
+        "1.0-2.0",
+        "2.5-3.0",
+        "3.0-3.75",
+        "4.5+"
+      ],
+      "answer": "1.0-2.0",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q006",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which grammatical morpheme emerges EARLIEST (Brown)?",
+      "options": [
+        "Present progressive -ing",
+        "Regular past tense -ed",
+        "Contractible auxiliary",
+        "Irregular third person singular"
+      ],
+      "answer": "Present progressive -ing",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q007",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "By 2-3 years, an unfamiliar listener should understand roughly what percent of a child's speech?",
+      "options": [
+        "50-75%",
+        "25-50%",
+        "90-100%",
+        "10-25%"
+      ],
+      "answer": "50-75%",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q008",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "mc",
+      "text": "Which is a red flag at 18 months?",
+      "options": [
+        "Does not use at least six to ten words consistently",
+        "Strangers can't understand the child",
+        "Does not laugh and squeal",
+        "Does not use simple sentences"
+      ],
+      "answer": "Does not use at least six to ten words consistently",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q009",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "MLU increases approximately 1.2 morphemes per year from 18 months to age 5.",
+      "answer": "True",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q010",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "Stopping is a phonological process that typically persists after age 3.",
+      "answer": "True",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q011",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "Liquids (l, r) are among the earliest speech sounds acquired.",
+      "answer": "False",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q012",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "tf",
+      "text": "By 36 months, strangers should generally be able to understand what a child is saying.",
+      "answer": "True",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q013",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "The average number of morphemes per utterance is abbreviated ______.",
+      "answer": "MLU",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q014",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "The phonological process of substituting a front sound for a back sound (can → /tæn/) is called velar ______.",
+      "answer": "fronting",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q015",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "Oller's stage at 10-12 months, combining different CV syllables, is ______ babbling.",
+      "answer": "variegated",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q016",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "fitb",
+      "text": "A red flag at 24 months is a vocabulary of fewer than ______ words.",
+      "answer": "50",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q017",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "match",
+      "text": "Match each Brown's stage to its MLU range.",
+      "pairs": [
+        [
+          "Stage I",
+          "1.0-2.0"
+        ],
+        [
+          "Stage II",
+          "2.0-2.5"
+        ],
+        [
+          "Stage III",
+          "2.5-3.0"
+        ],
+        [
+          "Stage V",
+          "3.75-4.5"
+        ]
+      ],
+      "answer": "",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q018",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "match",
+      "text": "Match each phonological process to its example.",
+      "pairs": [
+        [
+          "Final consonant deletion",
+          "cat → /kæ/"
+        ],
+        [
+          "Gliding",
+          "run → /wʌn/"
+        ],
+        [
+          "Stopping",
+          "sun → /dʌn/"
+        ],
+        [
+          "Cluster reduction",
+          "clean → /kin/"
+        ]
+      ],
+      "answer": "",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q019",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "match",
+      "text": "Match each age to its speech intelligibility expectation.",
+      "pairs": [
+        [
+          "19-24 months",
+          "25-50%"
+        ],
+        [
+          "2-3 years",
+          "50-75%"
+        ],
+        [
+          "4-5 years",
+          "75-90%"
+        ],
+        [
+          "5+ years",
+          "90-100%"
+        ]
+      ],
+      "answer": "",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q020",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "sa",
+      "text": "Describe Brown's Stages of Language Development and what MLU adds to assessment.",
+      "answer": "Brown's stages link age, MLU, and grammatical milestones across five stages: Stage I (12-26mo, MLU 1.0-2.0, 1-3 word utterances), Stage II (27-30mo, 2.0-2.5, grammatical morphemes emerge), Stage III (31-34mo, 2.5-3.0, auxiliaries/wh- questions), Stage IV (35-40mo, 3.0-3.75, noun-phrase complements), Stage V (41-46mo, 3.75-4.5, simple sentence coordination), and V+ (47+mo, 4.5+). MLU (average morphemes per utterance) is a reliable predictor of language complexity, increasing ~1.2 morphemes/year from 18mo to age 5.",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-tx-q021",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "type": "sa",
+      "text": "Distinguish phonological processes that disappear by age 3 from those that persist after 3, with one example each.",
+      "answer": "Disappearing by ~3: e.g., final consonant deletion (cat → /kæ/), velar fronting, reduplication, unstressed syllable deletion, prevocalic voicing. Persisting after 3 (resolving later): e.g., cluster reduction (clean → /kin/, ~4-5), gliding (run → /wʌn/, ~7), stopping (sun → /dʌn/), epenthesis (~8), final consonant devoicing (~5).",
+      "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
+      "created": "2026-10-08T04:14:55"
     }
   ],
   "notes": [
+    {
+      "id": "ch4-ppt-note002",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "title": "Module 4 — HIPAA & Patient Confidentiality (Study Notes)",
+      "body": "HIPAA & PATIENT CONFIDENTIALITY — STUDY NOTES\n(COMM DIS 3, Module 4 — for SLPA students and interns)\n\n======================================================\nWHAT IS HIPAA?\n======================================================\n• Health Insurance Portability and Accountability Act\n• Passed 1996, updated 2003\n• Purpose: improve the flow of patient health information WHILE protecting patients' privacy rights\n\nHIPAA gives the patient the right to:\n• Request access to their health information\n• Request that care providers amend their health info\n• Request restrictions on information sharing\n\n======================================================\nAS SLPAs/SLPs, WE:\n======================================================\n• Treat info about our patients/clients/students as confidential\n• Do NOT discuss them outside of the facility\n• Only access medical/background info we NEED to do our job (minimum necessary)\n• Seek patient permission before sharing info with ANYONE\n• Keep our files secure\n\n======================================================\nHIPAA-COMPLIANT PRACTICES\n======================================================\n• Do not share log-ins/passwords\n• Keep paper files in locked cabinets\n• Do not travel with files (if you must, protect them with your life)\n• Do not access health information on family & friends\n• Do not store pictures/info on your phone\n• Do not discuss clients in public settings\n• Do not approach clients/families in public\n• Do not engage with clients/families on social media\n\n======================================================\nHIPAA AT DELTA COLLEGE\n======================================================\nCOMM DIS 3: observing therapy (e.g., UOP clinic/CDC) — do NOT discuss the clients you observe;\nde-identify individuals in your notes; using names in class is permissible only if the door is shut.\nCOMM DIS 9 / CDC: use the ID # provided (not the child's name); don't discuss cases outside the CDC and class.\nInternship: most rules apply — discuss specifics with your supervisor.\n\n======================================================\nIDENTIFY-THE-PROBLEM TAKEAWAYS\n======================================================\n• Don't show/discuss clinic logs in public (cafe) — even without names.\n• Don't greet/approach a client in public (can reveal the clinical relationship).\n• Don't photograph clients on a personal phone or email PHI to personal accounts.\n• Don't send your clinic log to another provider without proper authorization.\n• DO de-identify logs (initials, color-coding for sites) AND get supervisor approval before a traveling-file system.\n\n★ KEY EXAM POINTS\n• HIPAA = 1996 (updated 2003); protects PHI, gives patients access/amend/restrict rights.\n• Minimum necessary: access only what you need.\n• De-identify notes; secure all files; never on personal phones/social media/public settings.\n",
+      "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55",
+      "updated": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch4-ppt-note001",
+      "image": null,
+      "module": "mod-4",
+      "chapter": "4",
+      "title": "Module 4 — Therapy Approaches (Study Notes)",
+      "body": "THERAPY APPROACHES — STUDY NOTES\n(COMM DIS 3, Module 4 — An Overview of Tx Approaches)\n\nTherapy approaches fall on a continuum from LEAST NATURAL to MOST NATURAL.\n(In Duthie & Reece, the two most-natural approaches are combined and called the \"naturalistic approach.\")\n\n======================================================\nCLINICIAN-DIRECTED APPROACH\n======================================================\nCHARACTERISTICS:\n• Clinician controls the session\n• Clinician chooses activities, targets, and determines a successful response\n• Clinician often chooses reinforcers\n• Clinician elicits very specific responses (imitative or spontaneous)\nSTRATEGIES: Drill • Drill Play\n\nADVANTAGES:\n• Introducing/teaching a new skill\n• Efficient — many repetitions\n• Generally easier to plan\n• Generally easier to take data\n• Works well for articulation, phonology, morphology, syntax\n\nDISADVANTAGES:\n• Some clients cannot tolerate it\n• Does not follow typical communication patterns\n• Language is decontextualized\n• Generalization is difficult\n• Not great for semantics, pragmatics, fluency\n\n======================================================\nNATURALISTIC APPROACH\n======================================================\nCHARACTERISTICS:\n• Treatment happens in the natural environment\n• Follows typical communication patterns\n• Client plays a role in selecting activities\n• Clinician models/stresses targets\n• No expectation for a response\nSTRATEGIES: Indirect language stimulation • Milieu teaching • Script therapy • Focused language stimulation\n\nADVANTAGES:\n• Motivation • Sustained attention • Treatment efficacy\n• Caregiver participation/coaching\n• Generalization (great for later stages of therapy)\n• Great for semantics, pragmatics (contextualized)\n\nDISADVANTAGES:\n• Not as efficient at targeting specific responses\n• Difficult to get repetitions\n• Difficult to plan • Difficult to take data\n• Not great for initial stages of articulation/phonology tx\n\n======================================================\nHOW TO CHOOSE AN APPROACH\n======================================================\nConsider: Age of the client • Social abilities of the client • Goals • Where the client is in the therapeutic process\n\n★ KEY EXAM POINTS\n• Clinician-directed = clinician controls everything; drill/drill play; efficient; best for artic/phono/morph/syntax; weak generalization.\n• Naturalistic = natural environment, child-led, modeling, no demand; best for semantics/pragmatics & generalization; weak for initial artic/phono.\n• Choose based on: age, social ability, goals, stage in therapy.\n",
+      "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
+      "created": "2026-10-08T04:14:55",
+      "updated": "2026-10-08T04:14:55"
+    },
     {
       "id": "ch2-ppt-note001",
       "image": null,
