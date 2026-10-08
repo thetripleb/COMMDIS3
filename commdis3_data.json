@@ -13,9 +13,28 @@
         "1"
       ],
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "mod-2",
+      "name": "Module 2: Defining the Roles of SLPAs",
+      "desc": "Scope of practice, minimum qualifications, supervision (ASHA & California), ethics/Code of Conduct, work settings, and duties of the speech-language pathology assistant.",
+      "chapters": [
+        "2"
+      ],
+      "created": "2026-08-24T18:33:28"
     }
   ],
   "glossary": [
+    {
+      "id": "ch2-ppt-g010",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch2-ppt-anderson-continuum.png",
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Anderson's Continuum of Supervision",
+      "def": "A model of the supervisory relationship that moves across three stages — Evaluation-Feedback, Transitional, and Self-Supervision — with supervisory style shifting from Direct/Active to Collaborative to Consultative as the supervisee gains competence.",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
     {
       "id": "ch1-ppt-g004",
       "image": null,
@@ -25,6 +44,16 @@
       "def": "The production of speech sounds (\"the producers of speech sounds\"), carried out by the lips, teeth, tongue, alveolar ridge, hard palate, soft palate, and mandible. One of the four components of speech.",
       "source": "Hulit, Fahey & Howard (2015), Born to Talk",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g018",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "ASHA Assistants Code of Conduct",
+      "def": "The set of principles and rules of ethical practice for certified assistants, built on three principles: responsibility to persons served, responsibility to the public, and responsibility for professional relationships.",
+      "source": "ASHA (2020), Assistants Code of Conduct",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g022",
@@ -37,6 +66,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-tx-g006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Bilingual SLPA",
+      "def": "An SLPA who, with adequate training, may interpret/translate during screening and assessment (exclusive of interpretation of results) and provide services in another language under SLP supervision (e.g., Susan).",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g017",
       "image": null,
       "module": "mod-1",
@@ -45,6 +84,36 @@
       "def": "A model describing language as three intersecting dimensions: Form, Content, and Use.",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g019",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "C-SLPA",
+      "def": "Certified Speech-Language Pathology Assistant — the credential earned through ASHA's Assistants Certification Program (launched December 2020).",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "CCC-SLP",
+      "def": "Certificate of Clinical Competence in Speech-Language Pathology, awarded by ASHA. Required (and/or state licensure) for an SLP to supervise an SLPA.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Clinical Fellowship (CFY)",
+      "def": "A minimum 9-month period of mentored professional experience completed after graduate coursework; a supervising SLP must have completed the CFY plus additional experience before supervising an SLPA.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g001",
@@ -65,6 +134,56 @@
       "def": "The dimension of language covering semantics (meaning).",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-tx-g005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Continuing education units (CEU)",
+      "def": "Credit for continuing education; requirements vary by state (e.g., Florida requires 20 CEU per biennium for renewal).",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-g004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Continuing professional development (CPD)",
+      "def": "Ongoing training SLPAs complete to maintain credentials; in California SLPAs complete 12 hours of CPD every 2 years.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Direct supervision",
+      "def": "In-view (on-site or live/synchronous telesupervision) observation and guidance while the SLPA is performing a clinical activity, allowing immediate feedback. Reviewing a recorded session later does NOT count as direct supervision.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g022",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Early intervention",
+      "def": "Services for children birth to age 3, often delivered through home visits with naturalistic, child-centered therapy and parent coaching.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g011",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Evaluation-Feedback stage",
+      "def": "The first stage of Anderson's continuum, paired with a Direct/Active supervisory style; the supervisor leads and provides substantial direction and feedback.",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g013",
@@ -97,6 +216,56 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-ppt-g023",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Full-time equivalent (FTE)",
+      "def": "Under California regulation, at least 30 hours per week. An SLP is recommended to supervise no more than three FTE SLPAs.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-g001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "IEP (Individualized Education Plan)",
+      "def": "A written plan of care used in school settings; SLPAs prepare materials for and support IEP meetings but do not write or modify the plan.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-g002",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "IFSP (Individualized Family Service Plan)",
+      "def": "The early-intervention counterpart to the IEP for children birth to 3 and their families.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g008",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Immediate supervision (CA)",
+      "def": "Under California regulation, the level of supervision required for direct client activity involving medically fragile patients; the SLPA acts only under the direction of the supervisor, who must be present.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g007",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Indirect supervision",
+      "def": "Monitoring or reviewing the SLPA's activities without being physically present or available in real time — e.g., reviewing demonstration videos, client files, or recorded sessions, and conducting supervisory conferences by phone or secure virtual meeting.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g003",
       "image": null,
       "module": "mod-1",
@@ -115,6 +284,16 @@
       "def": "The larynx, which serves as the sound source (voice) for speech.",
       "source": "Kent (1997), The Speech Sciences",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g014",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Medically fragile",
+      "def": "Describes an acutely ill patient in an unstable health condition. Treatment of a medically fragile client by an SLPA requires 100% direct supervision by the SLP.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g009",
@@ -137,6 +316,26 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-ppt-g024",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Name-tag disclosure (CA)",
+      "def": "California requires an SLPA to display their name and registration status on a name tag in at least 18-point type while working, and to self-identify as an SLPA.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-g007",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Naturalistic intervention",
+      "def": "Child-centered, play-based therapy delivered in natural settings such as the home, common in early intervention.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g015",
       "image": null,
       "module": "mod-1",
@@ -157,6 +356,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-ppt-g015",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Plan of care",
+      "def": "A written service plan (e.g., IEP, IFSP, treatment plan) developed and monitored by the supervising SLP; the SLPA implements it but may not write, develop, or modify it.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g011",
       "image": null,
       "module": "mod-1",
@@ -165,6 +374,36 @@
       "def": "The social use of language in context (also called discourse). In the Bloom & Lahey taxonomy, pragmatics is the Use dimension.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g017",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Progress monitoring",
+      "def": "Collecting, graphing, and reviewing data on a client's target skills to gauge response to treatment. SLPAs may administer/score progress-monitoring tools but not interpret them.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g020",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Pull-out model",
+      "def": "A service-delivery model in which the SLPA works with students individually or in small groups outside the classroom.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g021",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Push-in model",
+      "def": "A service-delivery model in which services are provided inside the classroom (e.g., in self-contained classrooms).",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g012",
@@ -207,6 +446,36 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-ppt-g002",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Scope of practice",
+      "def": "The defined set of responsibilities, duties, and functions that an SLPA may perform (and those they may not), as set by ASHA and by state regulation. For California SLPAs, scope is governed by ASHA's SLPA Scope of Practice and Title 16, Article 12 of the CA Code of Regulations.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g016",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Screening",
+      "def": "A pass-fail procedure to identify individuals who may need further assessment. An SLPA may administer and score screenings, but clinical interpretation is done by the SLP.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g013",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Self-Supervision stage",
+      "def": "The final stage of Anderson's continuum, paired with a Consultative style; the supervisee self-monitors and the supervisor consults as needed.",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g008",
       "image": null,
       "module": "mod-1",
@@ -227,6 +496,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-tx-g003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "SOAP note",
+      "def": "A Subjective, Objective, Assessment, and Plan progress note written after a session to document client responses and goals (e.g., Stephanie's daily documentation).",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g002",
       "image": null,
       "module": "mod-1",
@@ -235,6 +514,36 @@
       "def": "The physiological (motor) act of producing and manipulating sound; often defined as \"the oral expression of language.\" Speech relies on the lungs, larynx, and oral and nasal structures, and is generally considered innate.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Speech-Language Pathology Assistant (SLPA)",
+      "def": "Support personnel who, after academic coursework, clinical practicum, and credentialing, perform tasks prescribed, directed, and supervised by an ASHA-certified and/or state-credentialed SLP. An SLPA is not an independent practitioner and never carries their own caseload.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-g008",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "State licensure variation",
+      "def": "SLPA entry requirements differ by state — e.g., California accepts an associate's (SLPA-accredited/board-approved) OR a bachelor's in CSD/SLP; other states specify their own degree, practicum, and supervision rules.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-g003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Supervising SLP",
+      "def": "The ASHA-certified and/or state-licensed speech-language pathologist who retains full legal and ethical responsibility for all students, patients, and clients, delegates appropriate tasks to the SLPA, and provides direct and indirect supervision.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g023",
@@ -257,6 +566,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch2-ppt-g009",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Telesupervision",
+      "def": "Supervision in which the SLP views and communicates with the SLPA (and client) in real time via telecommunication technology, enabling immediate feedback. Counts as direct supervision; reviewing a recording later does not.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
       "id": "ch1-ppt-g021",
       "image": "https://thetripleb.github.io/COMMDIS3/images/ch1-ppt-speech-chain.png",
       "module": "mod-1",
@@ -265,6 +584,16 @@
       "def": "Denes & Pinson's model describing the different forms a spoken message takes as it travels from the speaker's mind to the listener's mind, passing through linguistic, physiological, and acoustic levels.",
       "source": "Denes & Pinson (1973), The Speech Chain",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-g012",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "term": "Transitional stage",
+      "def": "The middle stage of Anderson's continuum, paired with a Collaborative style; supervisor and supervisee share responsibility as competence grows.",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
     },
     {
       "id": "ch1-ppt-g020",
@@ -477,6 +806,246 @@
       "back": "Unintended.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-f001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What are the minimum qualifications for an SLP to SUPERVISE an SLPA?",
+      "back": "Hold the ASHA CCC-SLP (and/or state license); completed the 9-month CFY plus experience; at least 2 hours of continuing education in clinical instruction/supervision; and adherence to state supervision laws.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f002",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch2-ppt-anderson-continuum.png",
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What are the three STAGES of Anderson's Continuum of Supervision?",
+      "back": "Evaluation-Feedback → Transitional → Self-Supervision.",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What are the three STYLES in Anderson's Continuum, and how do they map to the stages?",
+      "back": "Direct/Active (Evaluation-Feedback) → Collaborative (Transitional) → Consultative (Self-Supervision).",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Define DIRECT supervision. Does reviewing a recorded session count?",
+      "back": "In-view observation and guidance while the SLPA performs a clinical activity (on-site or live telesupervision), allowing immediate feedback. Reviewing a recorded session later does NOT count as direct supervision.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Define INDIRECT supervision. Give two examples.",
+      "back": "Monitoring the SLPA's work without being present in real time — e.g., reviewing client files, reviewing recorded sessions, or holding supervisory conferences by phone/secure virtual meeting.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "California: how much DIRECT supervision is required in the first 90 days after initial licensure?",
+      "back": "At least 20% per week of the SLPA's work schedule (on-site observation and guidance) for the first 90 days following initial licensure.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f007",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What level of supervision is required when an SLPA treats a MEDICALLY FRAGILE client?",
+      "back": "100% direct supervision by the SLP.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f008",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "May an SLPA perform tasks when the supervising SLP cannot be reached?",
+      "back": "No. An SLPA may not perform tasks when the supervising SLP cannot be reached by personal contact (phone, pager, or other immediate/electronic means).",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f009",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Name four tasks that are WITHIN an SLPA's scope of practice.",
+      "back": "Examples: administering/scoring screenings (no interpretation); implementing the SLP's plan of care; providing direct therapy on SLP-developed goals; collecting/documenting data; programming AAC devices; assisting with clerical duties.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f010",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Name four tasks OUTSIDE an SLPA's scope of practice.",
+      "back": "Examples: diagnosing disorders; interpreting assessments; writing/modifying the plan of care; making referrals; discharging a client; signing documents without the SLP's co-signature; representing themselves as the SLP.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f011",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What are the three Principles of Conduct in the ASHA Assistants Code of Conduct?",
+      "back": "(1) Responsibility to persons served professionally; (2) Responsibility to the public; (3) Responsibility for professional relationships.",
+      "source": "ASHA (2020), Assistants Code of Conduct",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f012",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "In what work settings do SLPAs practice?",
+      "back": "Public schools (pre-K, K-8, HS, ATP), private clinics (1:1 and small group), and early intervention (birth-3, home visits) — among hospitals, SNFs, and home health.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f013",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "List core DUTIES of an SLPA.",
+      "back": "Read/understand goals; plan goal-targeted activities; provide therapy (1:1, small group, push-in); document services; manage materials; support the SLP with clerical duties (progress reports, IEP paperwork); coordinate with teachers/parents.",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f014",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "California name-tag rule for SLPAs?",
+      "back": "The SLPA must display name and registration status on a name tag in at least 18-point type and self-identify as an SLPA.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f015",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Under CA regulation, what are the three TYPES of supervision?",
+      "back": "Immediate (medically fragile / new direct client activity), Direct (new screening/treatment activity the SLPA has been trained on but not yet performed in client care), and Indirect (previously-instructed tasks, clerical, non-client-care).",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f016",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Who retains legal and ethical responsibility for the client — the SLPA or the SLP?",
+      "back": "The supervising SLP always retains full legal and ethical responsibility; it cannot be delegated.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f017",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "How many FTE SLPAs is an SLP recommended to supervise, and what is an FTE in CA?",
+      "back": "No more than three (3) full-time-equivalent SLPAs; in California an FTE is at least 30 hours per week.",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-f018",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Can an SLPA interpret assessment results or diagnose?",
+      "back": "No. SLPAs may administer and score assessments/screenings (if trained and competent) but interpretation, diagnosis, and eligibility determination are exclusive to the SLP.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "In California, how much continuing professional development must an SLPA complete?",
+      "back": "12 hours of CPD every 2 years (per the 'Day in the Life' profile of Jackie).",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f002",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What is a SOAP note and when is it written?",
+      "back": "A Subjective-Objective-Assessment-Plan progress note documenting a client's session responses and goals, written after each session.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What may a BILINGUAL SLPA do that adds to the standard scope?",
+      "back": "With training, assist with interpretation/translation during screening and assessment (not interpreting results) and provide services in another language under SLP supervision.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "Across the 'Day in the Life' profiles, what varies most from state to state?",
+      "back": "Entry/licensure requirements (degree type, practicum hours, supervision rules) and continuing-education requirements.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What settings appear across the SLPA profiles?",
+      "back": "Home/early-intervention, Head Start/daycare, private practice, and public schools (K-8, elementary, secondary).",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-f006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "front": "What common 'words of wisdom' recur across the SLPA profiles?",
+      "back": "Know your scope of practice, keep learning/observe other clinicians, don't give up, ask questions, and specialize to set yourself apart.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
     }
   ],
   "questions": [
@@ -824,9 +1393,520 @@
       "answer": "The Bloom & Lahey taxonomy models language as three intersecting dimensions: Form (syntax, morphology, phonology), Content (semantics/meaning), and Use (pragmatics/discourse — the social use of language).",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch2-ppt-q001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "Which is a minimum qualification for an SLP to supervise an SLPA?",
+      "options": [
+        "Holds the CCC-SLP and completed the 9-month CFY",
+        "A bachelor's degree in any field",
+        "Two years as an SLPA",
+        "Current graduate student status"
+      ],
+      "answer": "Holds the CCC-SLP and completed the 9-month CFY",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q002",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "In Anderson's Continuum, which supervisory STYLE pairs with the Self-Supervision stage?",
+      "options": [
+        "Consultative",
+        "Direct/Active",
+        "Collaborative",
+        "Evaluative"
+      ],
+      "answer": "Consultative",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "Reviewing a recorded therapy session after the fact is an example of:",
+      "options": [
+        "Indirect supervision",
+        "Direct supervision",
+        "Immediate supervision",
+        "Telesupervision"
+      ],
+      "answer": "Indirect supervision",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "An SLPA treating a medically fragile client requires:",
+      "options": [
+        "100% direct supervision",
+        "20% indirect supervision",
+        "No supervision once trained",
+        "Only monthly review"
+      ],
+      "answer": "100% direct supervision",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "Which task is OUTSIDE the SLPA's scope of practice?",
+      "options": [
+        "Diagnosing a communication disorder",
+        "Administering a screening",
+        "Collecting treatment data",
+        "Programming an AAC device"
+      ],
+      "answer": "Diagnosing a communication disorder",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "In California, an SLPA's name tag must display their name and registration status in at least:",
+      "options": [
+        "18-point type",
+        "10-point type",
+        "24-point type",
+        "No size is specified"
+      ],
+      "answer": "18-point type",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q007",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "How many FTE SLPAs is a single SLP recommended NOT to exceed supervising?",
+      "options": [
+        "Three",
+        "One",
+        "Five",
+        "Ten"
+      ],
+      "answer": "Three",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q008",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "Which is WITHIN the SLPA's scope of practice?",
+      "options": [
+        "Providing direct therapy on SLP-developed goals",
+        "Modifying the plan of care",
+        "Making referrals for services",
+        "Discharging a client"
+      ],
+      "answer": "Providing direct therapy on SLP-developed goals",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q009",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "An SLPA may carry their own independent caseload once fully trained.",
+      "answer": "False",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q010",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "An SLPA may not perform tasks when the supervising SLP cannot be reached by personal contact.",
+      "answer": "True",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q011",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "The supervising SLP retains full legal and ethical responsibility for the client.",
+      "answer": "True",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q012",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "Direct supervision may be provided through live (synchronous) telesupervision.",
+      "answer": "True",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q013",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "An SLPA is permitted to interpret assessment results to determine eligibility for services.",
+      "answer": "False",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q014",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "In California, a supervisor must provide at least ______ percent direct supervision per week during the SLPA's first 90 days after initial licensure.",
+      "answer": "20",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q015",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "The final stage of Anderson's Continuum of Supervision is the ______ stage.",
+      "answer": "self-supervision",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q016",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "The ASHA ethical document that governs certified assistants is the Assistants ______ of Conduct.",
+      "answer": "Code",
+      "source": "ASHA (2020), Assistants Code of Conduct",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q017",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "A service-delivery model in which the SLPA works with students inside the classroom is called the ______ model.",
+      "answer": "push-in",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q018",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "Treatment of a client who is acutely ill and unstable — termed ______ fragile — requires 100% direct supervision.",
+      "answer": "medically",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q019",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "match",
+      "text": "Match each Anderson continuum STAGE to its supervisory STYLE.",
+      "pairs": [
+        [
+          "Evaluation-Feedback",
+          "Direct/Active"
+        ],
+        [
+          "Transitional",
+          "Collaborative"
+        ],
+        [
+          "Self-Supervision",
+          "Consultative"
+        ]
+      ],
+      "answer": "",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q020",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "match",
+      "text": "Match each supervision type to its description.",
+      "pairs": [
+        [
+          "Direct supervision",
+          "In-view observation with immediate feedback"
+        ],
+        [
+          "Indirect supervision",
+          "Reviewing files or recorded sessions"
+        ],
+        [
+          "Immediate supervision (CA)",
+          "Required for medically fragile clients"
+        ]
+      ],
+      "answer": "",
+      "source": "CA Code of Regs, Title 16 §1399.170 et seq. (Article 12)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q021",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "match",
+      "text": "Match each task to the rule that governs it.",
+      "pairs": [
+        [
+          "Administering & scoring a screening",
+          "Allowed — no interpretation"
+        ],
+        [
+          "Diagnosing a disorder",
+          "SLP only"
+        ],
+        [
+          "Programming an AAC device",
+          "Allowed with training"
+        ],
+        [
+          "Modifying the plan of care",
+          "Prohibited for the SLPA"
+        ]
+      ],
+      "answer": "",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q022",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "sa",
+      "text": "Explain the difference between direct and indirect supervision, and give one example of each.",
+      "answer": "Direct supervision is in-view observation and guidance while the SLPA performs a clinical activity (on-site or live telesupervision), allowing immediate feedback — e.g., the SLP observing a therapy session in real time. Indirect supervision does not require the SLP to be present or reachable in real time — e.g., reviewing the SLPA's data/files or a recorded session, or holding a supervisory conference by phone. Reviewing a recording later is indirect, not direct.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q023",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "sa",
+      "text": "List four tasks that are OUTSIDE an SLPA's scope of practice.",
+      "answer": "Any four: diagnosing communication/swallowing disorders; interpreting assessments or determining eligibility; writing, developing, or modifying the plan of care; making referrals; discharging a client; signing formal documents without the SLP's co-signature; representing themselves as the SLP; selecting AAC systems/devices.",
+      "source": "ASHA (2022), SLPA Scope of Practice",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-ppt-q024",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "sa",
+      "text": "Describe Anderson's Continuum of Supervision, naming its three stages and matching styles.",
+      "answer": "Anderson's continuum describes how supervision changes as the supervisee gains competence. It moves through three stages — Evaluation-Feedback (Direct/Active style, supervisor-led), Transitional (Collaborative style, shared responsibility), and Self-Supervision (Consultative style, supervisee self-monitors with the supervisor consulting as needed).",
+      "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "In California, an SLPA's continuing professional development requirement is:",
+      "options": [
+        "12 hours every 2 years",
+        "20 hours every year",
+        "6 hours every 2 years",
+        "No requirement"
+      ],
+      "answer": "12 hours every 2 years",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q002",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "A SOAP note stands for:",
+      "options": [
+        "Subjective, Objective, Assessment, Plan",
+        "Screening, Observation, Assessment, Progress",
+        "Session, Outcome, Analysis, Plan",
+        "Standard Operating Assessment Procedure"
+      ],
+      "answer": "Subjective, Objective, Assessment, Plan",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q003",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "mc",
+      "text": "According to the profiles, a bilingual SLPA may:",
+      "options": [
+        "Interpret during screening/assessment (not interpret results) under SLP supervision",
+        "Independently diagnose bilingual clients",
+        "Write the plan of care in another language",
+        "Determine eligibility for bilingual services"
+      ],
+      "answer": "Interpret during screening/assessment (not interpret results) under SLP supervision",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q004",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "SLPA entry and licensure requirements are identical in every U.S. state.",
+      "answer": "False",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q005",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "tf",
+      "text": "Early-intervention SLPAs often provide services in the home using play-based, child-centered approaches.",
+      "answer": "True",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q006",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "The early-intervention counterpart to the IEP for children birth to 3 is the ______.",
+      "answer": "IFSP",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q007",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "fitb",
+      "text": "In the profiles, Florida SLPAs complete ______ CEU per biennium for renewal.",
+      "answer": "20",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q008",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "match",
+      "text": "Match each documentation/plan term to its description.",
+      "pairs": [
+        [
+          "IEP",
+          "School plan of care"
+        ],
+        [
+          "IFSP",
+          "Birth-to-3 family service plan"
+        ],
+        [
+          "SOAP note",
+          "Post-session progress note"
+        ]
+      ],
+      "answer": "",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q009",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "sa",
+      "text": "Using the 'Day in the Life' profiles, describe two ways an SLPA's role can vary by setting.",
+      "answer": "Answers vary. Examples: In early intervention, the SLPA travels to homes/daycares and coaches parents using naturalistic, play-based therapy; in schools, the SLPA does pull-out and push-in therapy, IEP paperwork, and data collection; in private clinics, the SLPA sees clients 1:1 in ~1-hour sessions; a bilingual SLPA additionally interprets during screening/assessment under supervision. Requirements and CE also differ by state.",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch2-tx-q010",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "type": "sa",
+      "text": "What recurring advice do experienced SLPAs give to those entering the field?",
+      "answer": "Common threads: thoroughly understand your scope of practice; keep learning and observe other clinicians; specialize to set yourself apart; ask questions ('there are no wrong questions'); be a team player; and persevere ('don't give up' / 'hang in there').",
+      "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
+      "created": "2026-08-24T18:33:28"
     }
   ],
   "notes": [
+    {
+      "id": "ch2-ppt-note001",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "title": "Module 2 — Defining the Roles of SLPAs (Study Notes)",
+      "body": "MODULE 2: DEFINING THE ROLES OF SLPAs — STUDY NOTES\n(COMM DIS 3 — Scope of Practice, Qualifications, Supervision, Ethics)\n\n======================================================\n1. SCOPE OF PRACTICE — WHERE IT COMES FROM\n======================================================\n• Two authorities define what an SLPA may do:\n   - ASHA SLPA Scope of Practice (2022)\n   - California: Title 16, Division 13.4, Article 12 (§1399.170 et seq.)\n• CA Board / DCA: speechandhearing.ca.gov | ASHA: asha.org/policy/slpa-scope-of-practice\n• The SLPA is NOT an independent practitioner and never has their own caseload.\n\n======================================================\n2. MINIMUM QUALIFICATIONS FOR THE SUPERVISING SLP\n======================================================\n• ASHA CCC-SLP (and/or state license)\n• Completion of the 9-month Clinical Fellowship (CFY) + experience\n• At least 2 hours of CE in clinical instruction/supervision\n• Adherence to state laws on SLPA supervision\n\nEXPECTATIONS FOR THE SUPERVISING SLP\n• Adhere to Code of Ethics and licensure laws\n• Conduct ongoing competency evaluations of the SLPA\n• Provide ongoing, caseload-specific training\n• Provide treatment plans + assist with implementation\n• Provide case management; make all case-management decisions\n• Retain legal and ethical responsibility for clients\n• COLLABORATE WITH THE SLPA\n\n======================================================\n3. ANDERSON'S CONTINUUM OF SUPERVISION\n======================================================\nSTAGES  →  STYLES (supervisor involvement decreases as competence grows):\n• Evaluation-Feedback  →  Direct/Active\n• Transitional         →  Collaborative\n• Self-Supervision      →  Consultative\n\n======================================================\n4. TYPES OF SUPERVISION\n======================================================\nDIRECT\n• In-view observation and guidance while the SLPA works (on-site OR live telesupervision)\n• Allows immediate feedback\n• Reviewing a recording LATER does NOT count as direct\n\nINDIRECT\n• SLP not present/reachable in real time\n• Examples: reviewing demo videos, client files, recorded sessions; supervisory conferences by phone/secure virtual meeting\n\nIMMEDIATE (California term)\n• Required for direct client activity with medically fragile patients; SLPA acts only under the supervisor's direction\n\n======================================================\n5. FREQUENCY & AMOUNT OF SUPERVISION\n======================================================\nFIRST 90 DAYS (after initial licensure):\n• California reg: at least 20% per week DIRECT (on-site) supervision\n• Course slide: ~30% total supervision, of which ≥20% direct; SLP contact with each student at least every 2 weeks\nAFTER 90 DAYS:\n• Minimum of 1 hour direct supervision weekly\n• 100% direct supervision for medically fragile clients\n• Amount, frequency, and type scale with the SLPA's skills and experience\n• An SLPA may NOT perform tasks when the SLP cannot be reached by personal contact\n\nSLP-to-SLPA ratio: no more than 3 FTE SLPAs (CA: FTE = ≥30 hrs/week)\n\n======================================================\n6. WITHIN vs. OUTSIDE SCOPE\n======================================================\nWITHIN (with training + supervision):\n• Administer/score screenings & assessments (NO interpretation)\n• Implement the SLP's documented plan of care\n• Provide direct therapy on SLP-developed goals\n• Document/collect data; prepare charts and graphs\n• Program AAC devices; develop low-tech AAC materials\n• Provide caregiver coaching; clerical/admin support\n\nOUTSIDE (never):\n• Diagnose disorders; interpret assessments; determine eligibility\n• Write, develop, or modify the plan of care\n• Make referrals; discharge clients\n• Sign formal documents without the SLP's co-signature\n• Represent themselves as the SLP\n• Select AAC systems/devices\n• Treat medically fragile clients without 100% direct supervision\n• (CA) Perform high-acumen procedures: vocal tract prosthesis shaping/fitting, vocal tract imaging, oropharyngeal swallow therapy with bolus\n\n======================================================\n7. ETHICS — ASHA ASSISTANTS CODE OF CONDUCT (2020)\n======================================================\nThree Principles of Conduct:\n• I. Responsibility to persons served professionally\n• II. Responsibility to the public (honesty, no fraud/misrepresentation)\n• III. Responsibility for professional relationships (collaboration, no harassment/discrimination, cite sources)\n• Assistants are NOT independent practitioners; must be supervised per state law and ASHA's Code.\n\n======================================================\n8. CALIFORNIA-SPECIFIC RULES (Article 12)\n======================================================\n• Name tag: name + registration status in ≥18-point type; self-identify as SLPA\n• SLPA limited to duties in B&P Code §2538.1\n• Supervisor must hold a current, active, unrestricted CA SLP license and submit a \"Responsibility Statement\" to the Board within 30 business days of starting supervision\n• Outside scope (§1399.170.3): no evaluations, no interpreting data, no altering treatment plans, no signing in lieu of the SLP, no representing self as SLP, no high-acumen procedures\n\n======================================================\n9. WORK SETTINGS & DUTIES\n======================================================\nSETTINGS: public schools (pre-K, K-8, HS, ATP) • private clinics (1:1, small group, ~1-hr sessions) • early intervention (birth-3, home visits, parent coaching)\nDUTIES: read/understand goals • plan goal-targeted activities • provide therapy (1:1, small group, push-in) • document services • manage materials • support SLP with clerical work (progress reports, IEP paperwork) • coordinate with teachers & parents\n\n======================================================\n★ KEY EXAM POINTS\n======================================================\n★ SLP supervisor mins: CCC-SLP + 9-mo CFY + 2 hrs supervision CE + state law.\n★ Anderson: Evaluation-Feedback/Direct → Transitional/Collaborative → Self-Supervision/Consultative.\n★ Direct = in-view + immediate feedback (live telesupervision OK); recorded review = INDIRECT.\n★ CA first 90 days: ≥20% direct/week; after 90 days: ≥1 hr direct/week; medically fragile = 100% direct.\n★ SLPA may NOT: diagnose, interpret, write/modify plan of care, refer, discharge, sign alone, or self-represent as the SLP.\n★ SLP always retains legal + ethical responsibility; SLPA never has an independent caseload.\n★ CA name tag: ≥18-point type. FTE = ≥30 hrs/wk; ≤3 FTE SLPAs per SLP.\n★ SLPA may not work when the SLP is unreachable.\n",
+      "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
+      "created": "2026-08-24T18:33:28",
+      "updated": "2026-08-24T18:33:28"
+    },
     {
       "id": "ch1-ppt-note001",
       "image": null,
