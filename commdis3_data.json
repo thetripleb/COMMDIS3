@@ -31,6 +31,15 @@
         "4"
       ],
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "mod-5",
+      "name": "Module 5: Strategies in Speech & Language Therapy",
+      "desc": "Clinical strategies universal across treatment: task analysis and scaffolding, linguistic and social complexity, modeling, prompting and cuing, and feedback — anchored in the ZPD and the Four Essential Clinical Supports.",
+      "chapters": [
+        "5"
+      ],
+      "created": "2026-10-08T04:19:00"
     }
   ],
   "glossary": [
@@ -63,6 +72,16 @@
       "def": "The set of principles and rules of ethical practice for certified assistants, built on three principles: responsibility to persons served, responsibility to the public, and responsibility for professional relationships.",
       "source": "ASHA (2020), Assistants Code of Conduct",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch5-ppt-g013",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Auditory cue",
+      "def": "A cue delivered through sound (e.g., a verbal hint or emphasized sound).",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch1-ppt-g022",
@@ -205,6 +224,26 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch5-ppt-g018",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Corrective feedback",
+      "def": "Feedback that guides the client to fix an error; most effective when specific and descriptive (e.g., 'Oops, your tongue came between your teeth — can you put it back up top?').",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g010",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Cue",
+      "def": "A hint that helps the client be successful; cues can be visual, auditory, or tactile. Clinicians start with frequent, varied cues and fade to occasional, subtler ones.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
       "id": "ch4-ppt-g013",
       "image": null,
       "module": "mod-4",
@@ -283,6 +322,26 @@
       "def": "The production side of language — conveying messages through speaking and writing.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch5-ppt-g003",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Fading",
+      "def": "Gradually reducing supports (models, prompts, cues, feedback) as the client's accuracy and independence increase.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g015",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Feedback",
+      "def": "Information given to the client about their performance. Most effective feedback is specific, succinct/quick, and followed by an immediate opportunity to practice; begin with copious feedback and fade to occasional, subtle forms.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch4-tx-g007",
@@ -445,6 +504,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch5-ppt-g004",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Linguistic complexity",
+      "def": "The complexity of the language being used in a task; one dimension a clinician adjusts when building a hierarchy of tasks.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
       "id": "ch4-tx-g013",
       "image": null,
       "module": "mod-4",
@@ -483,6 +552,36 @@
       "def": "The HIPAA principle of accessing only the medical/background information needed to perform one's job.",
       "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch5-ppt-g007",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Modeling",
+      "def": "Demonstrating a target behavior for the client. Variants include modeling with emphasis, modeling for direct imitation, and modeling for delayed imitation; begin with constant models and fade to occasional, then fade completely.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g009",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Modeling for delayed imitation",
+      "def": "The clinician models a target that the client is expected to reproduce after a delay rather than immediately.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g008",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Modeling for direct imitation",
+      "def": "The clinician models a target immediately before the client is expected to imitate it.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch1-ppt-g009",
@@ -533,6 +632,16 @@
       "def": "Child-centered, play-based therapy delivered in natural settings such as the home, common in early intervention.",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch5-ppt-g017",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Non-specific (evaluative) feedback",
+      "def": "General evaluative feedback that does not describe the behavior (e.g., 'Good job,' 'Nope, not opposites').",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch4-tx-g001",
@@ -603,6 +712,16 @@
       "def": "Collecting, graphing, and reviewing data on a client's target skills to gauge response to treatment. SLPAs may administer/score progress-monitoring tools but not interpret them.",
       "source": "ASHA (2022), SLPA Scope of Practice",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch5-ppt-g011",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Prompt",
+      "def": "A question or direction for the client to respond to. Clinicians begin by constantly prompting and fade to occasional, more subtle prompts.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch4-ppt-g012",
@@ -715,6 +834,16 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch5-ppt-g002",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Scaffolding",
+      "def": "Support provided in incremental steps to help someone learn a new skill; supports are faded as accuracy increases.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
       "id": "ch2-ppt-g002",
       "image": null,
       "module": "mod-2",
@@ -783,6 +912,26 @@
       "def": "A Subjective, Objective, Assessment, and Plan progress note written after a session to document client responses and goals (e.g., Stephanie's daily documentation).",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch5-ppt-g005",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Social complexity",
+      "def": "The complexity of the setting/social context of a task; one dimension a clinician adjusts when building a hierarchy of tasks.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g016",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Specific (descriptive) feedback",
+      "def": "Feedback that describes exactly what the client did (e.g., 'You put your tongue behind your front teeth and that /s/ came right out'), as opposed to non-specific evaluative feedback like 'Good job.'",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch1-ppt-g002",
@@ -865,6 +1014,36 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch5-ppt-g014",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Tactile cue",
+      "def": "A cue delivered through touch (e.g., a touch to the face to support a sound).",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g001",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Task analysis",
+      "def": "Breaking a complex task down into smaller, more manageable steps (e.g., to spell your name: learn letters → learn the letters in your name → trace the letters → spell on your own).",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-g006",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Task hierarchy",
+      "def": "An ordered sequence of tasks (varying linguistic and social complexity) the client works to master as part of a goal.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
       "id": "ch2-ppt-g009",
       "image": null,
       "module": "mod-2",
@@ -923,6 +1102,16 @@
       "def": "A phonological process: substituting a front sound for a back (velar) sound (e.g., can → /tæn/). Fronting of initial velars typically gone by ~4 years.",
       "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch5-ppt-g012",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "term": "Visual cue",
+      "def": "A cue delivered through sight (e.g., a gesture, picture, or written support).",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     },
     {
       "id": "ch1-ppt-g007",
@@ -1605,6 +1794,116 @@
       "back": "Velar fronting substitutes a front sound for a back sound (can → /tæn/); fronting of initial velars typically resolves by ~4 years.",
       "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch5-ppt-f001",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What is task analysis?",
+      "back": "Breaking a complex task into smaller, more manageable steps (e.g., spelling your name: learn letters → letters in your name → trace → spell independently).",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f002",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What is scaffolding?",
+      "back": "Support provided in incremental steps to help someone learn a new skill, faded as accuracy increases.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f003",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "How do you set up treatment to keep a client in the ZPD?",
+      "back": "Identify the steps to the goal, determine what the client can do independently, find the next step up (where they need you), use models/prompts/cues to keep them successful, and fade supports as accuracy increases.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f004",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What two dimensions of complexity does a clinician adjust?",
+      "back": "Linguistic complexity (the language used) and social complexity (the setting) — building a hierarchy of tasks to master.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f005",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What are the three types of modeling described?",
+      "back": "Modeling with emphasis, modeling for direct imitation, and modeling for delayed imitation — begin with constant models, fade to occasional, then fade completely.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f006",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What's the difference between a cue and a prompt?",
+      "back": "A cue is a hint (visual, auditory, or tactile) to help the client succeed; a prompt is a question or direction for the client to respond to. Both start frequent and are faded to occasional/subtle.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f007",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What are the three modalities of cues?",
+      "back": "Visual, auditory, and tactile.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f008",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What makes feedback most effective?",
+      "back": "It is specific, succinct/quick, and followed by an immediate opportunity to practice; begin with copious feedback and fade to occasional, subtle forms.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f009",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "Specific vs. non-specific feedback — give an example of each (positive).",
+      "back": "Non-specific (evaluative): 'Good job' / 'Nice /s/.' Specific (descriptive): 'You said your /s/ so clearly — you put your tongue behind your front teeth and that sound came right out.'",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f010",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "How should supports (models, prompts, cues, feedback) change over time?",
+      "back": "Begin with frequent/copious support and fade to occasional, subtler forms as the client's accuracy and independence grow.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-f011",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "front": "What questions guide a task analysis?",
+      "back": "What's the final goal? What must happen first? What are the major steps? Can steps be broken down further? What knowledge/skills, tools, or resources are needed? Where could someone get stuck? How would you know it was completed successfully?",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     }
   ],
   "questions": [
@@ -3095,9 +3394,356 @@
       "answer": "Disappearing by ~3: e.g., final consonant deletion (cat → /kæ/), velar fronting, reduplication, unstressed syllable deletion, prevocalic voicing. Persisting after 3 (resolving later): e.g., cluster reduction (clean → /kin/, ~4-5), gliding (run → /wʌn/, ~7), stopping (sun → /dʌn/), epenthesis (~8), final consonant devoicing (~5).",
       "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch5-ppt-q001",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "Breaking a complex task into smaller, manageable steps is called:",
+      "options": [
+        "Task analysis",
+        "Scaffolding",
+        "Modeling",
+        "Fading"
+      ],
+      "answer": "Task analysis",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q002",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "Providing support in incremental steps to help someone learn a new skill is:",
+      "options": [
+        "Scaffolding",
+        "Task analysis",
+        "Cuing",
+        "Feedback"
+      ],
+      "answer": "Scaffolding",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q003",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "Which is a modality of cuing?",
+      "options": [
+        "Tactile",
+        "Evaluative",
+        "Descriptive",
+        "Spontaneous"
+      ],
+      "answer": "Tactile",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q004",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "What distinguishes a prompt from a cue?",
+      "options": [
+        "A prompt is a question or direction to respond to; a cue is a hint",
+        "A prompt is a hint; a cue is a reward",
+        "They are identical",
+        "A cue is only verbal"
+      ],
+      "answer": "A prompt is a question or direction to respond to; a cue is a hint",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q005",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "Which is an example of SPECIFIC (descriptive) feedback?",
+      "options": [
+        "'You put your tongue behind your front teeth and that /s/ came right out'",
+        "'Good job!'",
+        "'Nice /s/'",
+        "'Way to go!'"
+      ],
+      "answer": "'You put your tongue behind your front teeth and that /s/ came right out'",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q006",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "The two complexity dimensions a clinician adjusts are linguistic and:",
+      "options": [
+        "Social",
+        "Physical",
+        "Financial",
+        "Temporal"
+      ],
+      "answer": "Social",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q007",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "Modeling a target the client reproduces after a delay is modeling for:",
+      "options": [
+        "Delayed imitation",
+        "Direct imitation",
+        "Emphasis",
+        "Reinforcement"
+      ],
+      "answer": "Delayed imitation",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q008",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "mc",
+      "text": "As a client's accuracy increases, the clinician should:",
+      "options": [
+        "Fade supports",
+        "Increase prompts",
+        "Stop all feedback abruptly",
+        "Add more models"
+      ],
+      "answer": "Fade supports",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q009",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "tf",
+      "text": "Effective feedback should be specific, succinct, and followed by a chance to practice.",
+      "answer": "True",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q010",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "tf",
+      "text": "'Good job!' is an example of specific, descriptive feedback.",
+      "answer": "False",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q011",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "tf",
+      "text": "Cues can be visual, auditory, or tactile.",
+      "answer": "True",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q012",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "tf",
+      "text": "Clinicians should begin with occasional, subtle prompts and increase them over time.",
+      "answer": "False",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q013",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "fitb",
+      "text": "Breaking a complex task into smaller steps is called task ______.",
+      "answer": "analysis",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q014",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "fitb",
+      "text": "Gradually reducing supports as accuracy increases is called ______.",
+      "answer": "fading",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q015",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "fitb",
+      "text": "A ______ is a question or direction for the client to respond to.",
+      "answer": "prompt",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q016",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "fitb",
+      "text": "The complexity of the setting or social context of a task is called ______ complexity.",
+      "answer": "social",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q017",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "match",
+      "text": "Match each strategy to its description.",
+      "pairs": [
+        [
+          "Task analysis",
+          "Breaking a task into smaller steps"
+        ],
+        [
+          "Scaffolding",
+          "Incremental support to learn a skill"
+        ],
+        [
+          "Fading",
+          "Reducing support as accuracy grows"
+        ],
+        [
+          "Modeling",
+          "Demonstrating the target behavior"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q018",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "match",
+      "text": "Match each cue modality to an example.",
+      "pairs": [
+        [
+          "Visual",
+          "A gesture or picture"
+        ],
+        [
+          "Auditory",
+          "A verbal hint or emphasized sound"
+        ],
+        [
+          "Tactile",
+          "A touch to support a sound"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q019",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "match",
+      "text": "Match each feedback example to its type.",
+      "pairs": [
+        [
+          "'Good job!'",
+          "Non-specific (evaluative)"
+        ],
+        [
+          "'Your tongue was behind your teeth, clear /s/'",
+          "Specific (descriptive)"
+        ],
+        [
+          "'Oops, your tongue came between your teeth — put it back up top'",
+          "Specific corrective"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q020",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "sa",
+      "text": "Explain how a clinician uses task analysis and scaffolding to keep a client in their ZPD.",
+      "answer": "The clinician first performs a task analysis — breaking the goal into smaller steps — and determines what the client can already do independently. They then target the next step up (where the client needs support to succeed) and provide scaffolding using models, prompts, and cues to keep the client successful within the zone of proximal development. As accuracy increases, supports are faded so the client moves toward independence.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q021",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "sa",
+      "text": "Describe what makes feedback effective and how it should change over the course of therapy.",
+      "answer": "Effective feedback is specific/descriptive (names exactly what the client did), succinct/quick, and immediately followed by a chance to practice. Clinicians begin with copious feedback and fade to occasional, subtler forms as the client improves. Descriptive feedback ('you put your tongue behind your teeth and that /s/ came right out') is more useful than non-specific evaluative feedback ('good job').",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch5-ppt-q022",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "type": "sa",
+      "text": "List the four essential clinical supports and give a strategy example for one.",
+      "answer": "The four essential clinical supports are: (1) adjust the complexity of the task, (2) use cues/prompts, (3) vary the use of models, and (4) use feedback/reinforcement. Example: for 'adjust complexity,' the clinician builds a hierarchy of tasks varying linguistic and social complexity and moves the client up as they master each level.",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00"
     }
   ],
   "notes": [
+    {
+      "id": "ch5-ppt-note001",
+      "image": null,
+      "module": "mod-5",
+      "chapter": "5",
+      "title": "Module 5 — Strategies in Speech & Language Therapy (Study Notes)",
+      "body": "STRATEGIES IN SPEECH & LANGUAGE THERAPY — STUDY NOTES\n(COMM DIS 3, Module 5)\n\nThere are strategies universal in treatment across the practice. Duthie organizes them under the FOUR ESSENTIAL CLINICAL SUPPORTS:\n1. Adjust the complexity of the task — Linguistic (language used) and Social (setting) complexity; create a hierarchy of tasks to master as part of the goal.\n2. Use cues/prompts.\n3. Vary the use of models.\n4. Use feedback and/or reinforcement.\n\n======================================================\nZPD — THE TARGET ZONE\n======================================================\n• The Zone of Proximal Development is the target zone for therapy.\n• Set up Tx to keep 'em in the ZPD: identify steps to the goal → what can the client do independently → find the next step up (where they need you) → use models/prompts/cues to keep them successful → fade supports as accuracy increases.\n\n======================================================\nTASK ANALYSIS & SCAFFOLDING\n======================================================\n• TASK ANALYSIS = break a complex task into smaller, more manageable steps.\n   Example: spell your name → learn letters → learn the letters in your name → trace the letters → spell on your own.\n• SCAFFOLDING = support provided in incremental steps to help someone learn a new skill.\nTask-analysis questions: What's the final goal? What must happen first? What are the major steps? Can any step be broken down further? What knowledge/skills are required? What tools/resources are needed? Where could someone get stuck? How would you know it was completed successfully?\n\n======================================================\nADJUST THE COMPLEXITY\n======================================================\n• LINGUISTIC complexity (language being used) and SOCIAL complexity (setting).\n• Create a hierarchy of tasks you want the client to master as part of the goal.\n\n======================================================\nMODELING\n======================================================\n• Modeling, modeling with emphasis\n• Modeling for DIRECT imitation\n• Modeling for DELAYED imitation\n• Begin with constant models → fade to occasional → fade completely.\n\n======================================================\nCUES & PROMPTS\n======================================================\n• CUES = hints to help the client succeed: Visual, Auditory, Tactile.\n• PROMPTS = a question or direction for the client to respond to.\n• At the beginning: constantly prompting + a variety of cues. Fade to occasional, subtler prompts/cues.\n\n======================================================\nFEEDBACK\n======================================================\n• Provides the client info on their performance.\n• Most effective feedback is: SPECIFIC, SUCCINCT/quick, FOLLOWED by an immediate practice opportunity.\n• Begin with copious feedback → fade to occasional, subtle forms.\n• SPECIFIC (descriptive) beats NON-SPECIFIC (evaluative):\n   Positive — Non-specific: 'Good job' / 'Nice /s/.' Specific: 'You said your /s/ so clearly — you put your tongue behind your front teeth and that sound came right out.'\n   Corrective — Non-specific: 'No, that is not a good /s/.' Specific: 'Oops, your tongue came between your teeth — can you put it back up to the top of your mouth?'\n\n★ KEY EXAM POINTS\n• Four Essential Clinical Supports: adjust complexity, cues/prompts, vary models, feedback/reinforcement.\n• Task analysis = break down; Scaffolding = incremental support; Fade as accuracy grows.\n• Complexity dimensions: Linguistic + Social → build a task hierarchy.\n• Modeling: with emphasis / direct imitation / delayed imitation; constant → faded.\n• Cues (visual/auditory/tactile) = hints; Prompts = questions/directions; both faded over time.\n• Feedback = specific + succinct + followed by practice; descriptive > evaluative.\n",
+      "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
+      "created": "2026-10-08T04:19:00",
+      "updated": "2026-10-08T04:19:00"
+    },
     {
       "id": "ch4-ppt-note002",
       "image": null,
