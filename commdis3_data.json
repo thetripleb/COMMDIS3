@@ -40,9 +40,38 @@
         "5"
       ],
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "mod-6",
+      "name": "Module 6: Emerging Syntax & Clinician-Directed Therapies",
+      "desc": "Emerging syntax in communication development (birth-2 yrs): morphemes, Brown's Stage I, first word combinations, pragmatic functions, and narrative. Plus clinician-directed therapy: behaviorism, reinforcement, discrete trial training, and drill.",
+      "chapters": [
+        "6"
+      ],
+      "created": "2026-10-08T04:22:21"
     }
   ],
   "glossary": [
+    {
+      "id": "ch6-cdt-g019",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "ABC of behavior",
+      "def": "Antecedent (an act/event preceding the behavior — the prompt), Behavior (an observable/measurable act — the response), and Consequence (reinforcement).",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Activity reinforcer",
+      "def": "A preferred activity used as a secondary reinforcer.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
     {
       "id": "ch2-ppt-g010",
       "image": "https://thetripleb.github.io/COMMDIS3/images/ch2-ppt-anderson-continuum.png",
@@ -52,6 +81,16 @@
       "def": "A model of the supervisory relationship that moves across three stages — Evaluation-Feedback, Transitional, and Self-Supervision — with supervisory style shifting from Direct/Active to Collaborative to Consultative as the supervisee gains competence.",
       "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch6-cdt-g020",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Antecedent",
+      "def": "The act or event that precedes a behavior; functions as the prompt in the ABC model.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch1-ppt-g004",
@@ -94,6 +133,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch6-cdt-g001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Behaviorism",
+      "def": "A learning framework (B.F. Skinner) in which a behavior is created and then followed by a reward or punishment; underlies clinician-directed therapy.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-tx-g006",
       "image": null,
       "module": "mod-2",
@@ -112,6 +161,26 @@
       "def": "A model describing language as three intersecting dimensions: Form, Content, and Use.",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch6-ppt-g003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Bound morpheme",
+      "def": "A morpheme that must be attached to a word (e.g., -ing in running, -s in cats, -ed in kicked, possessive -'s in John's).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-g007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Brown's Stage I",
+      "def": "The earliest of Brown's stages (MLU 1.0-2.0, ~12-26 months): Early Stage I (MLU 1.0-1.5, 12-22mo, single morphemes, first words ~12mo) and Late Stage I (MLU 1.5-2.0, 22-26mo, onset ~18-24mo).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch4-tx-g014",
@@ -194,6 +263,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch6-ppt-g006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Communicative gesture",
+      "def": "An early prelinguistic gesture used to communicate; includes protodeclaratives (show/give) and protoimperatives (control others).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g019",
       "image": null,
       "module": "mod-1",
@@ -222,6 +301,16 @@
       "def": "Ongoing training SLPAs complete to maintain credentials; in California SLPAs complete 12 hours of CPD every 2 years.",
       "source": "Kimball & Charboneau, A Day in the Life of an SLPA (Resource Manual, Appendix 1-D)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch6-cdt-g012",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Continuous reinforcement",
+      "def": "Reinforcing every correct response (e.g., a 1:1 ratio); used early to establish a behavior.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch5-ppt-g018",
@@ -274,6 +363,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch6-cdt-g018",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Discrete trial training (DTT)",
+      "def": "A behaviorist speech/language treatment structured around the ABCs of behavior (antecedent-behavior-consequence).",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch4-ppt-g003",
       "image": null,
       "module": "mod-4",
@@ -294,6 +393,16 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch6-cdt-g021",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Drill therapy",
+      "def": "A clinician-directed guided-practice method using massed repetition; does not generalize on its own, so the clinician must plan for generalization.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g022",
       "image": null,
       "module": "mod-2",
@@ -302,6 +411,16 @@
       "def": "Services for children birth to age 3, often delivered through home visits with naturalistic, child-centered therapy and parent coaching.",
       "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch6-ppt-g014",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Elements of a simple narrative",
+      "def": "The parts of a basic story: setting, event, episode, problem (internal response), and conclusion.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch2-ppt-g011",
@@ -354,6 +473,46 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch6-ppt-g015",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "First 50 words",
+      "def": "An early-language milestone: a child's first ~50 meaningful words, after which vocabulary and word combinations expand.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g022",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Five components of good drill therapy",
+      "def": "(1) Always preceded by instruction; (2) involves reinforcement; (3) involves specific feedback (positive + corrective); (4) involves mass repetition; (5) clinician plans for generalization.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g016",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Fixed interval",
+      "def": "Reinforcement after a set amount of time.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g014",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Fixed ratio",
+      "def": "Reinforcement after a set number of responses.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g006",
       "image": null,
       "module": "mod-1",
@@ -382,6 +541,16 @@
       "def": "The dimension of language covering syntax, morphology, and phonology.",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch6-ppt-g002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Free morpheme",
+      "def": "A morpheme that can stand alone as a single word (e.g., dog, house, me, run, under).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch2-ppt-g023",
@@ -484,6 +653,26 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch6-ppt-g013",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Informative function (Halliday)",
+      "def": "Using language to inform or convey information to others.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g013",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Intermittent reinforcement",
+      "def": "Reinforcing some but not all responses (the 'gambling' schedule); variable schedules are often the most powerful.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g003",
       "image": null,
       "module": "mod-1",
@@ -512,6 +701,16 @@
       "def": "The complexity of the language being used in a task; one dimension a clinician adjusts when building a hierarchy of tasks.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch6-ppt-g012",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Mathetic function (Halliday)",
+      "def": "Using language to learn about the world.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch4-tx-g013",
@@ -584,6 +783,16 @@
       "created": "2026-10-08T04:19:00"
     },
     {
+      "id": "ch6-ppt-g001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Morpheme",
+      "def": "The smallest unit of meaning in language. Morphemes are either free (stand-alone) or bound (must be attached).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g009",
       "image": null,
       "module": "mod-1",
@@ -654,6 +863,16 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch6-cdt-g002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Operant conditioning",
+      "def": "Learning in which behavior is shaped by its consequences — reinforcement (increases behavior) or punishment (decreases behavior).",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g015",
       "image": null,
       "module": "mod-1",
@@ -684,6 +903,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch6-ppt-g008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Pivot-open grammar",
+      "def": "Braine's description of early two-word combinations built from a small set of 'pivot' words combined with a larger 'open' class of words.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g015",
       "image": null,
       "module": "mod-2",
@@ -694,6 +923,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch6-ppt-g011",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Pragmatic function (Halliday)",
+      "def": "Using language for dialogue/interaction with others.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch1-ppt-g011",
       "image": null,
       "module": "mod-1",
@@ -702,6 +941,16 @@
       "def": "The social use of language in context (also called discourse). In the Bloom & Lahey taxonomy, pragmatics is the Use dimension.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch6-cdt-g005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Primary reinforcer",
+      "def": "A biologically or psychologically driven reinforcer (e.g., food); generally NOT used in speech therapy.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch2-ppt-g017",
@@ -734,6 +983,26 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch6-ppt-g004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Protodeclarative",
+      "def": "A communicative gesture used to show or give, establishing joint attention.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-g005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Protoimperative",
+      "def": "A communicative gesture used to control the behavior of others (e.g., to request).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g020",
       "image": null,
       "module": "mod-2",
@@ -742,6 +1011,16 @@
       "def": "A service-delivery model in which the SLPA works with students individually or in small groups outside the classroom.",
       "source": "Module 2: Defining SLPA (COMM DIS 3 lecture slides)",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch6-cdt-g004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Punishment",
+      "def": "A consequence that decreases the likelihood a behavior will recur.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch2-ppt-g021",
@@ -762,6 +1041,16 @@
       "def": "The comprehension side of language — understanding through listening and reading.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch6-ppt-g010",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Recurrence",
+      "def": "An early semantic relation expressing 'more' or repetition of an entity or action (e.g., 'more juice').",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch4-tx-g017",
@@ -792,6 +1081,16 @@
       "def": "A phonological process: repeating phonemes or syllables (e.g., bottle → /bɔbɔ/). Disappears by ~3 years.",
       "source": "LinguiSystems Guide to Communication Milestones (Lanza & Flahive, 2009)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch6-cdt-g003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Reinforcement",
+      "def": "A consequence that increases the likelihood a behavior will recur.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch1-ppt-g016",
@@ -844,6 +1143,16 @@
       "created": "2026-10-08T04:19:00"
     },
     {
+      "id": "ch6-cdt-g011",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Schedules of reinforcement",
+      "def": "Patterns for delivering reinforcement: continuous vs. intermittent; fixed vs. variable; ratio vs. interval.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g002",
       "image": null,
       "module": "mod-2",
@@ -874,6 +1183,16 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch6-cdt-g006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Secondary reinforcer",
+      "def": "Items, events, or actions people learn to enjoy — tangible, activity, token/conditioned, and social reinforcers.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g013",
       "image": null,
       "module": "mod-2",
@@ -882,6 +1201,16 @@
       "def": "The final stage of Anderson's continuum, paired with a Consultative style; the supervisee self-monitors and the supervisor consults as needed.",
       "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch6-ppt-g009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Semantic-syntactic relations",
+      "def": "Bloom & Lahey's categories of early meaning-based word combinations (e.g., demonstrative + entity 'that kitty'; agent + action 'car go'; action + object 'eat nana').",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch1-ppt-g008",
@@ -922,6 +1251,16 @@
       "def": "The complexity of the setting/social context of a task; one dimension a clinician adjusts when building a hierarchy of tasks.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch6-cdt-g010",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Social reinforcer",
+      "def": "Praise, high-fives, fist bumps — anything with social value; it is FREE and, once established, often the most powerful reinforcer.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch5-ppt-g016",
@@ -1024,6 +1363,16 @@
       "created": "2026-10-08T04:19:00"
     },
     {
+      "id": "ch6-cdt-g007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Tangible reinforcer",
+      "def": "A physical item given as a secondary reinforcer.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch5-ppt-g001",
       "image": null,
       "module": "mod-5",
@@ -1064,6 +1413,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch6-cdt-g009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Token/conditioned reinforcer",
+      "def": "Tokens earned toward a reward within a conditioned reinforcement system.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
       "id": "ch2-ppt-g012",
       "image": null,
       "module": "mod-2",
@@ -1082,6 +1441,26 @@
       "def": "The dimension of language covering pragmatics and discourse (social use).",
       "source": "Bloom & Lahey (Taxonomy of Language)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch6-cdt-g017",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Variable interval",
+      "def": "Reinforcement after an unpredictable amount of time.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-g015",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "term": "Variable ratio",
+      "def": "Reinforcement after an unpredictable number of responses; often the most powerful schedule.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     },
     {
       "id": "ch4-tx-g003",
@@ -1904,6 +2283,196 @@
       "back": "What's the final goal? What must happen first? What are the major steps? Can steps be broken down further? What knowledge/skills, tools, or resources are needed? Where could someone get stuck? How would you know it was completed successfully?",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch6-ppt-f001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What is a morpheme, and what are the two types?",
+      "back": "The smallest unit of meaning. Free morphemes stand alone (dog, run); bound morphemes must be attached (-ing, -s, -ed, possessive -'s).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Free vs. bound morpheme — give examples.",
+      "back": "Free: dog, house, me, under, run (stand-alone). Bound: run-ning, cat-s, kick-ed, John-'s (must attach to a word).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Protodeclarative vs. protoimperative?",
+      "back": "Protodeclarative = gesture to show/give and establish joint attention. Protoimperative = gesture to control others' behavior (e.g., request).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Describe Brown's Stage I.",
+      "back": "MLU 1.0-2.0 (~12-26 months). Early Stage I: MLU 1.0-1.5 (12-22mo), single morphemes, first words ~12mo. Late Stage I: MLU 1.5-2.0 (22-26mo), onset ~18-24mo.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What is Braine's pivot-open grammar?",
+      "back": "A description of early two-word combinations using a small set of 'pivot' words combined with a larger 'open' class.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Give three of Bloom & Lahey's semantic-syntactic relations.",
+      "back": "Any three: demonstrative+entity (that kitty), entity+attribute (kitty nice), possessor+possession (my tiger), entity+location (tiger chair), action+location (put chair), agent+object (baby shoe), agent+action (car go), action+object (eat nana).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Name Halliday's three language functions referenced here.",
+      "back": "Pragmatic (dialogue/interaction), Mathetic (learning), and Informative (informing).",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What are the elements of a simple narrative?",
+      "back": "Setting, event, episode, problem (internal response), and conclusion.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-f009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What four communication purposes appear in prelinguistic communication?",
+      "back": "Requesting (satisfy wants/needs), controlling others' behaviors, interacting with others, and expressing emotions.",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What is behaviorism (Skinner) in therapy?",
+      "back": "Creating a behavior and then following it with a reward or punishment; the basis of clinician-directed therapy via operant conditioning.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Reinforcement vs. punishment?",
+      "back": "Reinforcement increases the likelihood a behavior recurs; punishment decreases it.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Primary vs. secondary reinforcers — which do SLPs use?",
+      "back": "Primary = biologically/psychologically driven (e.g., food) — generally NOT used. Secondary = learned (tangible, activity, token/conditioned, social) — these are used in therapy.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Why are social reinforcers valuable?",
+      "back": "Praise, high-fives, and fist bumps have social value, are FREE, and once established are often the most powerful reinforcer.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Name the schedules of reinforcement.",
+      "back": "Continuous vs. intermittent; and within those, fixed ratio vs. variable ratio, and fixed interval vs. variable interval.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "How should reinforcement change over therapy?",
+      "back": "Begin with a 1:1 ratio (continuous); as confidence/accuracy increase, fade the intensity and rate. Variable reinforcement is often most powerful.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What are the ABCs of behavior in DTT?",
+      "back": "Antecedent (the prompt — act/event preceding behavior), Behavior (the response — observable/measurable act), and Consequence (reinforcement).",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What are the 5 components of good drill therapy?",
+      "back": "(1) Always preceded by instruction; (2) involves reinforcement; (3) involves specific feedback (positive + corrective); (4) involves mass repetition; (5) clinician plans for generalization.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "What is drill play and why is it used?",
+      "back": "An extension of drill therapy that incorporates play (an activity the client enjoys) to make drill more interesting/tolerable, because clients can't tolerate straight drill for long. Drill = prompt-response-feedback; Play = any enjoyable activity.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-f010",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "front": "Does drill therapy generalize on its own?",
+      "back": "No — drill therapy does not generalize, so the clinician must deliberately plan for generalization.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     }
   ],
   "questions": [
@@ -3730,9 +4299,619 @@
       "answer": "The four essential clinical supports are: (1) adjust the complexity of the task, (2) use cues/prompts, (3) vary the use of models, and (4) use feedback/reinforcement. Example: for 'adjust complexity,' the clinician builds a hierarchy of tasks varying linguistic and social complexity and moves the client up as they master each level.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch6-ppt-q001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "The smallest unit of meaning in language is a:",
+      "options": [
+        "Morpheme",
+        "Phoneme",
+        "Syllable",
+        "Grapheme"
+      ],
+      "answer": "Morpheme",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Which is a BOUND morpheme?",
+      "options": [
+        "-ed in 'kicked'",
+        "dog",
+        "run",
+        "under"
+      ],
+      "answer": "-ed in 'kicked'",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "A gesture used to show or give and establish joint attention is a:",
+      "options": [
+        "Protodeclarative",
+        "Protoimperative",
+        "Phoneme",
+        "Pivot word"
+      ],
+      "answer": "Protodeclarative",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Brown's Stage I corresponds to an MLU of:",
+      "options": [
+        "1.0-2.0",
+        "2.5-3.0",
+        "3.0-3.75",
+        "4.5+"
+      ],
+      "answer": "1.0-2.0",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "'That kitty' is an example of which Bloom & Lahey relation?",
+      "options": [
+        "Demonstrative + entity",
+        "Agent + action",
+        "Possessor + possession",
+        "Action + object"
+      ],
+      "answer": "Demonstrative + entity",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Braine's description of early two-word utterances is called:",
+      "options": [
+        "Pivot-open grammar",
+        "Universal grammar",
+        "Pivot-closed syntax",
+        "Transformational grammar"
+      ],
+      "answer": "Pivot-open grammar",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Using language to learn about the world is Halliday's ___ function.",
+      "options": [
+        "Mathetic",
+        "Pragmatic",
+        "Informative",
+        "Phonetic"
+      ],
+      "answer": "Mathetic",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "A free morpheme must be attached to another word to carry meaning.",
+      "answer": "False",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "Protoimperative gestures are used to control the behavior of others.",
+      "answer": "True",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q010",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "First words typically emerge around 12 months in Early Stage I.",
+      "answer": "True",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q011",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "A morpheme that can stand alone as a word is a ______ morpheme.",
+      "answer": "free",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q012",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "A gesture used to control others' behavior is a ______.",
+      "answer": "protoimperative",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q013",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "In a simple narrative, the internal response is also called the ______.",
+      "answer": "problem",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q014",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "match",
+      "text": "Match each Bloom & Lahey relation to its example.",
+      "pairs": [
+        [
+          "Agent + action",
+          "car go"
+        ],
+        [
+          "Action + object",
+          "eat nana"
+        ],
+        [
+          "Possessor + possession",
+          "my tiger"
+        ],
+        [
+          "Entity + location",
+          "tiger chair"
+        ]
+      ],
+      "answer": "",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q015",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "match",
+      "text": "Match each morpheme to its type.",
+      "pairs": [
+        [
+          "dog",
+          "Free morpheme"
+        ],
+        [
+          "-ing in running",
+          "Bound morpheme"
+        ],
+        [
+          "under",
+          "Free morpheme (stand-alone)"
+        ],
+        [
+          "-s in cats",
+          "Bound (plural)"
+        ]
+      ],
+      "answer": "",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q016",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "sa",
+      "text": "Explain the difference between free and bound morphemes with examples.",
+      "answer": "A free morpheme can stand alone as a word (e.g., dog, house, run, under). A bound morpheme cannot stand alone and must attach to another morpheme (e.g., plural -s in 'cats', past -ed in 'kicked', progressive -ing in 'running', possessive -'s in 'John's').",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-q017",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "sa",
+      "text": "List the elements of a simple narrative and briefly illustrate them.",
+      "answer": "Setting, event, episode, problem (internal response), and conclusion. Example: 'Once there was a dog named Gus (setting); Gus went to a party (event/episode); his friends were gone and he was sad (problem/internal response); SURPRISE — they had a party for him and he was happy (conclusion).'",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Behaviorism and operant conditioning are associated with:",
+      "options": [
+        "B.F. Skinner",
+        "Lev Vygotsky",
+        "Noam Chomsky",
+        "Jean Piaget"
+      ],
+      "answer": "B.F. Skinner",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q002",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Which reinforcer type is generally NOT used in speech therapy?",
+      "options": [
+        "Primary reinforcers",
+        "Social reinforcers",
+        "Token reinforcers",
+        "Activity reinforcers"
+      ],
+      "answer": "Primary reinforcers",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q003",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Which is often the MOST powerful reinforcement schedule?",
+      "options": [
+        "Variable ratio",
+        "Continuous",
+        "Fixed interval",
+        "Fixed ratio"
+      ],
+      "answer": "Variable ratio",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q004",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "In the ABCs of behavior, the antecedent functions as the:",
+      "options": [
+        "Prompt",
+        "Response",
+        "Reinforcement",
+        "Punishment"
+      ],
+      "answer": "Prompt",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q005",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Which is NOT one of the 5 components of good drill therapy?",
+      "options": [
+        "Avoiding reinforcement",
+        "Preceded by instruction",
+        "Mass repetition",
+        "Planning for generalization"
+      ],
+      "answer": "Avoiding reinforcement",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q006",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "Why do clinicians move from drill to drill play?",
+      "options": [
+        "Clients can't tolerate straight drill for long",
+        "Drill play requires no planning",
+        "Drill play needs no reinforcement",
+        "Drill is not evidence-based"
+      ],
+      "answer": "Clients can't tolerate straight drill for long",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q007",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "mc",
+      "text": "A reward given after an unpredictable number of responses is a ___ schedule.",
+      "options": [
+        "Variable ratio",
+        "Fixed ratio",
+        "Fixed interval",
+        "Continuous"
+      ],
+      "answer": "Variable ratio",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q008",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "Reinforcement increases the likelihood a behavior will recur.",
+      "answer": "True",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q009",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "Drill therapy generalizes on its own without clinician planning.",
+      "answer": "False",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q010",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "Social reinforcers are free and often the most powerful once established.",
+      "answer": "True",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q011",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "tf",
+      "text": "Clinicians should begin reinforcement with intermittent schedules and move to continuous.",
+      "answer": "False",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q012",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "In the ABC model, B stands for ______.",
+      "answer": "behavior",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q013",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "The behaviorist treatment structured around antecedent-behavior-consequence is ______ trial training.",
+      "answer": "discrete",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q014",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "Praise and high-fives are examples of ______ reinforcers.",
+      "answer": "social",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q015",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "fitb",
+      "text": "Begin reinforcement at a ______ ratio, then fade intensity and rate.",
+      "answer": "1:1",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q016",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "match",
+      "text": "Match each ABC element to its meaning.",
+      "pairs": [
+        [
+          "Antecedent",
+          "The prompt preceding behavior"
+        ],
+        [
+          "Behavior",
+          "The observable/measurable response"
+        ],
+        [
+          "Consequence",
+          "The reinforcement"
+        ]
+      ],
+      "answer": "",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q017",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "match",
+      "text": "Match each reinforcement schedule to its description.",
+      "pairs": [
+        [
+          "Continuous",
+          "Reinforce every response"
+        ],
+        [
+          "Variable ratio",
+          "Reinforce after unpredictable # of responses"
+        ],
+        [
+          "Fixed interval",
+          "Reinforce after a set time"
+        ],
+        [
+          "Intermittent",
+          "Reinforce some responses (gambling)"
+        ]
+      ],
+      "answer": "",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q018",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "match",
+      "text": "Match each secondary reinforcer to an example.",
+      "pairs": [
+        [
+          "Tangible",
+          "A small toy or sticker"
+        ],
+        [
+          "Activity",
+          "A preferred game"
+        ],
+        [
+          "Token",
+          "Points toward a reward"
+        ],
+        [
+          "Social",
+          "Praise or a high-five"
+        ]
+      ],
+      "answer": "",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q019",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "sa",
+      "text": "Describe the ABCs of behavior and how they map onto a discrete trial.",
+      "answer": "A = Antecedent: the act/event that precedes the behavior, which in a trial is the clinician's prompt. B = Behavior: the observable, measurable response the client produces. C = Consequence: the reinforcement delivered after a correct response. Discrete trial training structures therapy around this prompt-response-reinforcement sequence.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q020",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "sa",
+      "text": "List the five components of good drill therapy and note the key limitation of drill.",
+      "answer": "(1) Always preceded by instruction; (2) involves reinforcement; (3) involves specific feedback (both positive and corrective); (4) involves mass repetition; (5) the clinician plans for generalization. Key limitation: drill therapy does not generalize on its own, so generalization must be deliberately planned.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-cdt-q021",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "type": "sa",
+      "text": "Explain how reinforcement schedules are used and faded across therapy.",
+      "answer": "Start with continuous reinforcement (a 1:1 ratio) to establish the behavior. As the client's confidence and accuracy increase, fade the intensity and rate of reinforcement and shift toward intermittent, often variable, schedules — which are the most powerful for maintaining behavior. Once established, free social reinforcers are often the most powerful type.",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21"
     }
   ],
   "notes": [
+    {
+      "id": "ch6-cdt-note001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "title": "Module 6 — Clinician-Directed Therapies (Study Notes)",
+      "body": "CLINICIAN-DIRECTED THERAPIES — STUDY NOTES\n(COMM DIS 3, Module 6 — Behaviorism, Reinforcement, DTT, Drill)\n\n======================================================\nBEHAVIORISM (B.F. Skinner)\n======================================================\n• Create a behavior, then use a reward or punishment based on the behavior\n• OPERANT CONDITIONING: Reinforcement (increases behavior) vs. Punishment (decreases behavior)\n\n======================================================\nREINFORCERS\n======================================================\nPRIMARY — biologically/psychologically driven (e.g., food) → DON'T USE in speech therapy\nSECONDARY — learned:\n• Tangible\n• Activity\n• Tokens/conditioned reinforcement systems\n• SOCIAL — praise, high-five, fist bump; anything with social value; it is FREE (often the most powerful once established)\n\n======================================================\nSCHEDULES OF REINFORCEMENT\n======================================================\n• Continuous vs. INTERMITTENT (the \"gambling\" schedule)\n• Fixed Ratio vs. Variable Ratio\n• Fixed Interval vs. Variable Interval\nIN THERAPY: begin at 1:1 ratio → as confidence/accuracy increase, fade reinforcements.\nVariable reinforcement is often the most powerful. Fade intensity and rate.\n\n======================================================\nDISCRETE TRIAL TRAINING (DTT) — ABCs of Behavior\n======================================================\n• A — ANTECEDENT: act/event that precedes behavior = the PROMPT\n• B — BEHAVIOR: observable/measurable act = the RESPONSE\n• C — CONSEQUENCE: reinforcement\n\n======================================================\nDRILL THERAPY (Guided Practice)\n======================================================\n5 COMPONENTS OF GOOD DRILL THERAPY:\n1. Always preceded by instruction\n2. Must involve reinforcement\n3. Must involve specific feedback (positive + corrective)\n4. Must involve mass repetition\n5. Clinician must plan for generalization  (NOTE: drill therapy does NOT generalize on its own)\n\nDRILL PLAY:\n• An extension of drill therapy; clients don't tolerate straight drill for long\n• Incorporates play to make drill more interesting/tolerable\n• Drill = prompt, response, feedback | Play = any activity the client (and clinician) enjoys\n• Example (Aidan, /r/ initial, word level): Drill = run, raft, rip, rope…; Drill play = board game, say your word 5x then take a turn\n\n★ KEY EXAM POINTS\n• Behaviorism/operant conditioning = Skinner; reinforcement increases, punishment decreases behavior.\n• Don't use primary reinforcers; use secondary (tangible/activity/token/social). Social = free & powerful.\n• Schedules: continuous vs intermittent; fixed/variable ratio/interval; variable often strongest; start 1:1, fade.\n• ABC: Antecedent=prompt, Behavior=response, Consequence=reinforcement (DTT).\n• 5 drill components: instruction, reinforcement, specific feedback, mass repetition, plan for generalization.\n• Drill does NOT generalize on its own; drill play adds enjoyment to sustain practice.\n",
+      "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
+      "created": "2026-10-08T04:22:21",
+      "updated": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch6-ppt-note001",
+      "image": null,
+      "module": "mod-6",
+      "chapter": "6",
+      "title": "Module 6 — Emerging Syntax (Study Notes)",
+      "body": "EMERGING SYNTAX (BIRTH-2 YEARS) — STUDY NOTES\n(COMM DIS 3, Module 6 — slide credit: Brock & Duthie)\n\n======================================================\nREVIEW: PRELINGUISTIC COMMUNICATION\n======================================================\nPurposes: requesting (wants/needs) • controlling others' behaviors • interacting • expressing emotions\nCommunicative gestures:\n• PROTODECLARATIVES — to show, give; establish joint attention\n• PROTOIMPERATIVES — to control the behavior of others\n\nREVIEW: EMERGING LANGUAGE\n• First meaningful words → first 50 words → pragmatic functions\n\n======================================================\nMORPHEMES — smallest unit of meaning\n======================================================\n• FREE (stand-alone, single words): dog, house, window, me, you, under, run\n• BOUND (must attach to words): run-ing, cat-s, kick-ed, John-'s\n\n======================================================\nBROWN'S STAGE I (Syntactic Development)\n======================================================\n• MLU 1.0-2.0 [12-26 months]\n• EARLY Stage I: MLU 1.0-1.5 [12-22mo]; first words ~12mo; single morpheme (MLU 1.0)\n• LATE Stage I: MLU 1.5-2.0 [22-26mo]; onset ~18-24mo\n\n======================================================\nFIRST WORD COMBINATIONS\n======================================================\n• Braine: PIVOT-OPEN GRAMMAR\n• Bloom & Lahey: SEMANTIC-SYNTACTIC RELATIONS\n   demonstrative + entity (that kitty) • entity + attribute (kitty nice)\n   possessor + possession (my tiger) • entity + location (tiger chair)\n   action + location (put chair) • agent + object (baby shoe)\n   agent + action (car go) • action + object (eat nana)\n• Negatives: nonexistence/disappearance, rejection/denial\n• Recurrence (more)\n\n======================================================\nPRAGMATICS (Halliday functions)\n======================================================\n• PRAGMATIC function — dialogue\n• MATHETIC function — learn\n• INFORMATIVE function — inform\n\n======================================================\nCOMPREHENSION (Brown Stage 1) & LITERACY\n======================================================\n• Single word → word combinations\n• Social routines involving literacy: songs, rhymes, stories, television\n\nELEMENTS OF A SIMPLE NARRATIVE:\nSetting • Event • Episode • Problem (internal response) • Conclusion\nExample: \"Once there was a giant dog named Gus. Gus went to a birthday party for his friend Barry the Bear. But when he got there, all the friends were gone. He was sad, so he started to go back home, when SURPRISE! His friends had a party for him! Now he was happy.\"\n\n★ KEY EXAM POINTS\n• Morphemes: free (stand-alone) vs bound (attached).\n• Protodeclarative = show/give (joint attention); protoimperative = control others.\n• Brown Stage I: MLU 1.0-2.0; Early (1.0-1.5) vs Late (1.5-2.0).\n• Braine pivot-open; Bloom & Lahey semantic-syntactic relations (know the examples).\n• Halliday: pragmatic (dialogue), mathetic (learn), informative (inform).\n• Narrative = setting, event, episode, problem/internal response, conclusion.\n",
+      "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
+      "created": "2026-10-08T04:22:21",
+      "updated": "2026-10-08T04:22:21"
+    },
     {
       "id": "ch5-ppt-note001",
       "image": null,
