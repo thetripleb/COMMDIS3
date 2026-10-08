@@ -49,6 +49,15 @@
         "6"
       ],
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "mod-7",
+      "name": "Module 7: Strategies & Techniques in Naturalistic Therapy",
+      "desc": "Naturalistic therapy defined and contrasted with clinician-directed therapy, plus evidence-based techniques: balanced turn taking, responsivity, environmental arrangement/communication temptations, general and focused language stimulation, conversational recasts, literacy-based therapy, and script therapy.",
+      "chapters": [
+        "7"
+      ],
+      "created": "2026-10-08T04:32:21"
     }
   ],
   "glossary": [
@@ -131,6 +140,16 @@
       "def": "The self-monitoring cycle of speech: I say it → I hear it → I process it → I modify it.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch7-ppt-g003",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Balanced turn taking",
+      "def": "Matching the number of conversational turns between listener and speaker (a turn can be verbal, vocal, or gestural); the clinician facilitates a balance of turns, which is especially important for reluctant communicators and for AAC users.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch6-cdt-g001",
@@ -263,6 +282,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch7-ppt-g006",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Communication temptations",
+      "def": "Environmental-arrangement techniques that tempt communication: face-to-face and at eye level; keeping desired items 'out of reach, not out of mind'; and sabotage.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch6-ppt-g006",
       "image": null,
       "module": "mod-6",
@@ -311,6 +340,16 @@
       "def": "Reinforcing every correct response (e.g., a 1:1 ratio); used early to establish a behavior.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch7-ppt-g015",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Conversational recast",
+      "def": "The clinician provides a corrected model of the client's error in a natural, conversational style without requesting a response; used to correct grammatical errors or offer semantic extensions.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch5-ppt-g018",
@@ -423,6 +462,26 @@
       "created": "2026-10-08T04:22:21"
     },
     {
+      "id": "ch7-ppt-g002",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Elicit vs. entice",
+      "def": "Clinician-directed therapy is designed to ELICIT responses; naturalistic therapy is designed to ENTICE responses.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-g005",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Environmental arrangement",
+      "def": "Arranging the environment to encourage the client to communicate, using communication temptations.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch2-ppt-g011",
       "image": null,
       "module": "mod-2",
@@ -431,6 +490,26 @@
       "def": "The first stage of Anderson's continuum, paired with a Direct/Active supervisory style; the supervisor leads and provides substantial direction and feedback.",
       "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch7-ppt-g017",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Event-based script therapy",
+      "def": "Script therapy built on familiar routines/events (a type of script therapy).",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-g012",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Expansion",
+      "def": "Adding to what the client says; can be semantic or morphosyntactic.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch1-ppt-g013",
@@ -563,6 +642,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch7-ppt-g008",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "General language stimulation",
+      "def": "Providing a language-rich environment with no expectation that the client respond; includes self-talk, parallel talk, labeling, and expansion.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch4-ppt-g010",
       "image": null,
       "module": "mod-4",
@@ -673,6 +762,16 @@
       "created": "2026-10-08T04:22:21"
     },
     {
+      "id": "ch7-ppt-g011",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Labeling",
+      "def": "A general language-stimulation technique of naming objects, people, or actions in the environment.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch1-ppt-g003",
       "image": null,
       "module": "mod-1",
@@ -701,6 +800,26 @@
       "def": "The complexity of the language being used in a task; one dimension a clinician adjusts when building a hierarchy of tasks.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch7-ppt-g018",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Literacy-based script therapy",
+      "def": "Script therapy built on familiar story lines/books (a type of script therapy).",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-g016",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Literacy-based therapy",
+      "def": "Intervention that integrates books with therapy goals.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch6-ppt-g012",
@@ -803,6 +922,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch7-ppt-g014",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Morphosyntactic expansion",
+      "def": "Adding grammatical structure to the child's utterance (child: 'I have 3 cow' → clinician: 'you have 3 cowS').",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch1-ppt-g026",
       "image": null,
       "module": "mod-1",
@@ -843,6 +972,16 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch7-ppt-g001",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Naturalistic therapy",
+      "def": "A therapy approach ranging from child-centered to hybrid, based on typical communication exchanges during developmentally appropriate activities; it mirrors natural communication as closely as possible, with both clinician and client taking turns initiating and responding.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch5-ppt-g017",
       "image": null,
       "module": "mod-5",
@@ -871,6 +1010,16 @@
       "def": "Learning in which behavior is shaped by its consequences — reinforcement (increases behavior) or punishment (decreases behavior).",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch7-ppt-g010",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Parallel talk",
+      "def": "A general language-stimulation technique in which the clinician narrates the CLIENT'S actions aloud.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch1-ppt-g015",
@@ -1123,6 +1272,26 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch7-ppt-g004",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Responsivity",
+      "def": "When the adult's response is contingent on the client's communicative act; the clinician allows space for the client to initiate, then responds contingently — observing more and talking less.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-g007",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Sabotage (communication temptation)",
+      "def": "Deliberately setting up an obstacle or unexpected situation so the client is prompted to communicate.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
       "id": "ch4-tx-g005",
       "image": null,
       "module": "mod-4",
@@ -1201,6 +1370,26 @@
       "def": "The final stage of Anderson's continuum, paired with a Consultative style; the supervisee self-monitors and the supervisor consults as needed.",
       "source": "Anderson (1988), The Supervisory Process in SLP & Audiology",
       "created": "2026-08-24T18:33:28"
+    },
+    {
+      "id": "ch7-ppt-g009",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Self-talk",
+      "def": "A general language-stimulation technique in which the clinician narrates their OWN actions aloud.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-g013",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "term": "Semantic expansion",
+      "def": "Taking what the child says and adding more information (child: 'truck' → clinician: 'big red truck').",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     },
     {
       "id": "ch6-ppt-g009",
@@ -2473,6 +2662,126 @@
       "back": "No — drill therapy does not generalize, so the clinician must deliberately plan for generalization.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch7-ppt-f001",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Define naturalistic therapy.",
+      "back": "A therapy approach ranging from child-centered to hybrid, based on typical communication exchanges during developmentally appropriate activities; it mirrors natural communication, with clinician and client both initiating and responding.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f002",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Clinician-directed vs. naturalistic: elicit or entice?",
+      "back": "Clinician-directed is designed to ELICIT responses; naturalistic is designed to ENTICE responses.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f003",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Contrast clinician-directed and naturalistic across key features.",
+      "back": "Clinician-directed: older children, form goals, decontextualized, doesn't generalize. Naturalistic: younger children, semantics/pragmatics goals, contextualized, generalizes well (good for establishing or generalizing skills).",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f004",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "What is balanced turn taking?",
+      "back": "Matching the number of conversational turns between listener and speaker (verbal, vocal, or gestural); the clinician ensures a balance — key for reluctant communicators and AAC users.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f005",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "What is responsivity?",
+      "back": "The adult's response is contingent on the client's communicative act — allow space to initiate, then respond contingently; observe more, talk less.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f006",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Name the environmental-arrangement / communication-temptation techniques.",
+      "back": "Face-to-face and at eye level; 'out of reach, not out of mind'; and sabotage.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f007",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "What four techniques fall under general language stimulation?",
+      "back": "Self-talk, parallel talk, labeling, and expansion (semantic and morphosyntactic). The client is not expected to respond.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f008",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Self-talk vs. parallel talk?",
+      "back": "Self-talk = the clinician narrates their OWN actions. Parallel talk = the clinician narrates the CLIENT'S actions.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f009",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "Semantic vs. morphosyntactic expansion — give examples.",
+      "back": "Semantic: add information ('truck' → 'big red truck'). Morphosyntactic: add grammar ('I have 3 cow' → 'you have 3 cowS').",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f010",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "What is a conversational recast?",
+      "back": "The clinician gives a corrected model of the client's error in a natural, conversational style without requesting a response — to fix grammar or offer a semantic extension.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f011",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "How does focused language stimulation differ from general?",
+      "back": "Focused language stimulation provides a language-rich environment with emphasis on a PARTICULAR target: the clinician pre-selects materials conducive to the target and emphasizes it a lot. (General stimulation is broad, not target-specific.) Neither expects a client response.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-f012",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "front": "What are the two types of script therapy?",
+      "back": "Event-based (familiar routines/events) and literacy-based (familiar story lines/books).",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     }
   ],
   "questions": [
@@ -4887,9 +5196,356 @@
       "answer": "Start with continuous reinforcement (a 1:1 ratio) to establish the behavior. As the client's confidence and accuracy increase, fade the intensity and rate of reinforcement and shift toward intermittent, often variable, schedules — which are the most powerful for maintaining behavior. Once established, free social reinforcers are often the most powerful type.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch7-ppt-q001",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "Naturalistic therapy is designed to ___ responses, while clinician-directed is designed to ___ responses.",
+      "options": [
+        "entice; elicit",
+        "elicit; entice",
+        "block; force",
+        "delay; rush"
+      ],
+      "answer": "entice; elicit",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q002",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "Matching the number of conversational turns between partners is:",
+      "options": [
+        "Balanced turn taking",
+        "Responsivity",
+        "Sabotage",
+        "Labeling"
+      ],
+      "answer": "Balanced turn taking",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q003",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "When the adult's response is contingent on the client's communicative act, this is:",
+      "options": [
+        "Responsivity",
+        "Expansion",
+        "Self-talk",
+        "Recast"
+      ],
+      "answer": "Responsivity",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q004",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "Narrating the CLIENT'S actions aloud is:",
+      "options": [
+        "Parallel talk",
+        "Self-talk",
+        "Labeling",
+        "Recast"
+      ],
+      "answer": "Parallel talk",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q005",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "'I have 3 cow' → 'you have 3 cows' is an example of:",
+      "options": [
+        "Morphosyntactic expansion",
+        "Semantic expansion",
+        "Self-talk",
+        "Sabotage"
+      ],
+      "answer": "Morphosyntactic expansion",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q006",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "Which is an environmental-arrangement / communication-temptation technique?",
+      "options": [
+        "Out of reach, not out of mind",
+        "Mass drill",
+        "Discrete trial",
+        "Token economy"
+      ],
+      "answer": "Out of reach, not out of mind",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q007",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "A corrected model of a client's error given conversationally without requesting a response is a:",
+      "options": [
+        "Conversational recast",
+        "Prompt",
+        "Drill",
+        "Token"
+      ],
+      "answer": "Conversational recast",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q008",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "mc",
+      "text": "Naturalistic therapy is generally best suited to:",
+      "options": [
+        "Younger children; semantics & pragmatics goals",
+        "Older children; articulation drill",
+        "Decontextualized form work",
+        "Skills that don't generalize"
+      ],
+      "answer": "Younger children; semantics & pragmatics goals",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q009",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "tf",
+      "text": "In self-talk, the clinician narrates the client's actions.",
+      "answer": "False",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q010",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "tf",
+      "text": "Naturalistic therapy contextualizes language and generalizes well.",
+      "answer": "True",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q011",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "tf",
+      "text": "Balanced turn taking counts only verbal turns, not gestures.",
+      "answer": "False",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q012",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "tf",
+      "text": "In general language stimulation, the client is not expected to respond.",
+      "answer": "True",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q013",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "fitb",
+      "text": "Narrating your OWN actions aloud is called ______-talk.",
+      "answer": "self",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q014",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "fitb",
+      "text": "Adding information to 'truck' to make 'big red truck' is ______ expansion.",
+      "answer": "semantic",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q015",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "fitb",
+      "text": "Deliberately creating an obstacle to prompt communication is called ______.",
+      "answer": "sabotage",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q016",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "fitb",
+      "text": "Intervention that integrates books with therapy goals is ______-based therapy.",
+      "answer": "literacy",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q017",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "match",
+      "text": "Match each naturalistic technique to its description.",
+      "pairs": [
+        [
+          "Balanced turn taking",
+          "Matching # of turns between partners"
+        ],
+        [
+          "Responsivity",
+          "Responding contingent to the client's act"
+        ],
+        [
+          "Environmental arrangement",
+          "Setting up the space to tempt communication"
+        ],
+        [
+          "Conversational recast",
+          "Corrected model given conversationally"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q018",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "match",
+      "text": "Match each general language-stimulation technique to its description.",
+      "pairs": [
+        [
+          "Self-talk",
+          "Narrate your own actions"
+        ],
+        [
+          "Parallel talk",
+          "Narrate the client's actions"
+        ],
+        [
+          "Labeling",
+          "Name objects/actions"
+        ],
+        [
+          "Expansion",
+          "Add to what the client says"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q019",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "match",
+      "text": "Match each approach to its features.",
+      "pairs": [
+        [
+          "Clinician-directed",
+          "Older children, form goals, decontextualized"
+        ],
+        [
+          "Naturalistic",
+          "Younger children, semantics/pragmatics, contextualized"
+        ]
+      ],
+      "answer": "",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q020",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "sa",
+      "text": "Define naturalistic therapy and explain how it differs from clinician-directed therapy.",
+      "answer": "Naturalistic therapy is a child-centered-to-hybrid approach based on typical communication exchanges during developmentally appropriate activities; it mirrors natural communication, with both clinician and client initiating and responding, and is designed to ENTICE responses. Clinician-directed therapy is designed to ELICIT responses, suits older children and form-based goals, is decontextualized and doesn't generalize well; naturalistic suits younger children and semantics/pragmatics goals, is contextualized, and generalizes well.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q021",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "sa",
+      "text": "Describe three evidence-based naturalistic techniques and how each supports communication.",
+      "answer": "Examples: (1) Balanced turn taking — the clinician matches the number of verbal/vocal/gestural turns to keep exchanges balanced, key for reluctant communicators and AAC. (2) Responsivity — the clinician allows the client to initiate then responds contingently, observing more and talking less. (3) Environmental arrangement/communication temptations — arranging the space (face-to-face at eye level, 'out of reach, not out of mind,' sabotage) to entice the client to communicate. (Also: general/focused language stimulation, conversational recasts, literacy-based and script therapy.)",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch7-ppt-q022",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "type": "sa",
+      "text": "Explain the difference between general and focused language stimulation and name the general-stimulation techniques.",
+      "answer": "General language stimulation provides a broadly language-rich environment with no expected response, using self-talk, parallel talk, labeling, and expansion (semantic and morphosyntactic). Focused language stimulation also provides a language-rich environment but emphasizes a PARTICULAR target: the clinician pre-selects materials conducive to the target and emphasizes it heavily, still with no expected response.",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21"
     }
   ],
   "notes": [
+    {
+      "id": "ch7-ppt-note001",
+      "image": null,
+      "module": "mod-7",
+      "chapter": "7",
+      "title": "Module 7 — Strategies & Techniques in Naturalistic Therapy (Study Notes)",
+      "body": "STRATEGIES & TECHNIQUES IN NATURALISTIC THERAPY — STUDY NOTES\n(COMM DIS 3, Module 7)\n\n======================================================\nWHAT IS NATURALISTIC THERAPY?\n======================================================\n• Mirrors natural communication as closely as possible\n• Both clinician AND client have roles of initiating and responding\n• DEFINITION: a therapy approach ranging from child-centered to hybrid, based on typical communication exchanges during developmentally appropriate activities\n\n======================================================\nCOMPARE / CONTRAST\n======================================================\nCLINICIAN-DIRECTED                     | NATURALISTIC\nOlder children                          | Younger children\nNew skills → establish                  | New skills → establish, OR established → generalize\nGoals related to FORM                   | Goals: semantics, pragmatics\nDecontextualized                        | Contextualized\nDoesn't generalize                      | Generalizes well\nDesigned to ELICIT                      | Designed to ENTICE\n\n======================================================\nEVIDENCE-BASED PRACTICES FOR NATURALISTIC THERAPY\n======================================================\n1) BALANCED TURN TAKING\n   • Matching the # of conversational turns between listener and speaker\n   • A turn can be verbal, vocal, or gestural\n   • Clinician facilitates balance; key for reluctant communicators and AAC\n\n2) RESPONSIVITY\n   • The adult's response is contingent on the client's communicative act\n   • Allow space to initiate → respond contingently → observe more, talk less\n\n3) ENVIRONMENTAL ARRANGEMENT / COMMUNICATION TEMPTATIONS\n   • Arrange the environment to encourage communication\n   • Face-to-face and eye level • Out of reach, not out of mind • Sabotage\n\n4) GENERAL LANGUAGE STIMULATION (client not expected to respond)\n   • Self-talk (narrate YOUR actions) • Parallel talk (narrate the CLIENT'S actions)\n   • Labeling • Expansion — Semantic & Morphosyntactic\n      - Semantic expansion: 'truck' → 'big red truck'\n      - Morphosyntactic expansion: 'I have 3 cow' → 'you have 3 cowS'\n\n5) FOCUSED LANGUAGE STIMULATION (client not expected to respond)\n   • Language-rich environment with emphasis on a PARTICULAR target\n   • Clinician pre-selects materials conducive to the target and emphasizes it A LOT\n\n6) CONVERSATIONAL RECASTS\n   • Corrected model of the client's error in a natural, conversational style, no response requested\n   • Used to correct grammatical errors or offer semantic extensions\n\n7) LITERACY-BASED THERAPY\n   • Integrates books with therapy goals\n\n8) SCRIPT THERAPY\n   • Uses expected/repeatable language from familiar routines, events, or story lines\n   • Types: event-based and literacy-based\n\n★ KEY EXAM POINTS\n• Clinician-directed = ELICIT (older, form, decontextualized, no generalization); Naturalistic = ENTICE (younger, semantics/pragmatics, contextualized, generalizes).\n• Balanced turn taking = match turns (verbal/vocal/gestural).\n• Responsivity = contingent response; observe more, talk less.\n• Communication temptations: face-to-face/eye level, out of reach not out of mind, sabotage.\n• General stim: self-talk (your actions) vs parallel talk (client's actions), labeling, expansion (semantic vs morphosyntactic).\n• Focused stim = target-specific emphasis. Recast = conversational corrected model, no response required.\n",
+      "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
+      "created": "2026-10-08T04:32:21",
+      "updated": "2026-10-08T04:32:21"
+    },
     {
       "id": "ch6-cdt-note001",
       "image": null,
