@@ -58,6 +58,15 @@
         "7"
       ],
       "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "mod-3",
+      "name": "Module 3: Professionalism & the Therapy Hierarchy",
+      "desc": "Professionalism in SLP (credibility, appearance, clinical writing, client communication, self-assessment) and the therapy hierarchy (baselines/goals, ZPD, CHAT levels, clinical supports, evidence-based & ethical practice).",
+      "chapters": [
+        "3"
+      ],
+      "created": "2026-10-07T19:01:33"
     }
   ],
   "glossary": [
@@ -100,6 +109,16 @@
       "def": "The act or event that precedes a behavior; functions as the prompt in the ABC model.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch3-ppt-g003",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Appearance (professionalism)",
+      "def": "One of the four behavioral categories: dress for the setting's code, 'read the room' and blend in, fit clothing to the work, and be conservative — clothing communicates.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch1-ppt-g004",
@@ -150,6 +169,16 @@
       "def": "Matching the number of conversational turns between listener and speaker (a turn can be verbal, vocal, or gestural); the clinician facilitates a balance of turns, which is especially important for reluctant communicators and for AAC users.",
       "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
       "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch3-ppt-g010",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Baseline",
+      "def": "A client's starting level of performance on a target skill before treatment begins.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch6-cdt-g001",
@@ -242,6 +271,66 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch3-ppt-g014",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "CHAT Level 1 — Beginning a New Goal",
+      "def": "The first CHAT level: the client is just starting a new skill and needs maximum support.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g015",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "CHAT Level 2 — A Conscious Effort",
+      "def": "The second CHAT level: the client performs the skill with deliberate, effortful attention.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g016",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "CHAT Level 3 — Moving Along",
+      "def": "The third CHAT level: the client performs the skill with growing consistency.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g017",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "CHAT Level 4 — Carrying It Over",
+      "def": "The fourth CHAT level: the client generalizes/carries the skill over to new contexts.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g018",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "CHAT Level 5 — Getting There!",
+      "def": "The fifth CHAT level: the client approaches independence with minimal support.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g027",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Clinical expertise",
+      "def": "The knowledge, judgment, and critical reasoning acquired through training and professional experience; one input to EBP.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch2-ppt-g005",
       "image": null,
       "module": "mod-2",
@@ -252,6 +341,26 @@
       "created": "2026-08-24T18:33:28"
     },
     {
+      "id": "ch3-ppt-g019",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Clinical supports",
+      "def": "Techniques SLPs/SLPAs use to increase the likelihood of client success — e.g., physical proximity, reduced speaking rate, pausing, gesturing, wait time, and arranging the environment.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-g004",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Clinical writing",
+      "def": "Formal written clinical communication. Best practice: proofread, use word-processor tools, have a colleague proof, wait ~24 hours before proofing, read aloud, and match formality to the audience.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch4-ppt-g001",
       "image": null,
       "module": "mod-4",
@@ -260,6 +369,16 @@
       "def": "A therapy approach in which the clinician controls the session — choosing activities, targets, reinforcers, and what counts as a successful response — and elicits specific (imitative or spontaneous) responses. Strategies include drill and drill play.",
       "source": "An Overview of Tx Approaches (COMM DIS 3 lecture slides)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch3-ppt-g013",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Clinician's Hierarchy for Advancing Treatment (CHAT)",
+      "def": "A five-level framework describing the intervention process as a client moves from a new skill (Level 1) toward independence (Level 5).",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch4-tx-g009",
@@ -300,6 +419,16 @@
       "def": "An early prelinguistic gesture used to communicate; includes protodeclaratives (show/give) and protoimperatives (control others).",
       "source": "Emerging Syntax: Communication Development Birth-2 Years (COMM DIS 3 lecture slides; Brock & Duthie)",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch3-ppt-g009",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Conflict resolution",
+      "def": "One of the four professional behavioral categories — managing disagreements professionally and constructively.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch1-ppt-g019",
@@ -362,6 +491,16 @@
       "created": "2026-10-08T04:19:00"
     },
     {
+      "id": "ch3-ppt-g002",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Credibility",
+      "def": "Professional trustworthiness built by maintaining a positive attitude, projecting a professional image, conveying a willingness to learn, demonstrating initiative, and exhibiting organization.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch5-ppt-g010",
       "image": null,
       "module": "mod-5",
@@ -370,6 +509,16 @@
       "def": "A hint that helps the client be successful; cues can be visual, auditory, or tactile. Clinicians start with frequent, varied cues and fade to occasional, subtler ones.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch3-ppt-g021",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Cues/prompts",
+      "def": "Supports that guide a client toward a correct response; one of the Four Essential Clinical Supports.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch4-ppt-g013",
@@ -482,6 +631,16 @@
       "created": "2026-10-08T04:32:21"
     },
     {
+      "id": "ch3-ppt-g028",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Ethical practice",
+      "def": "Practice guided by ASHA's standards — the SLP Code of Ethics and the SLPA Code of Conduct.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch2-ppt-g011",
       "image": null,
       "module": "mod-2",
@@ -500,6 +659,16 @@
       "def": "Script therapy built on familiar routines/events (a type of script therapy).",
       "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
       "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch3-ppt-g024",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch3-ppt-ebp-triangle.png",
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Evidence-Based Practice (EBP)",
+      "def": "The integration of clinical expertise, evidence (external and internal), and client/patient/caregiver perspectives to guide clinical decisions.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch7-ppt-g012",
@@ -522,6 +691,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch3-ppt-g025",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "External evidence",
+      "def": "The best available information gathered from the scientific literature; one input to EBP.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch5-ppt-g003",
       "image": null,
       "module": "mod-5",
@@ -540,6 +719,16 @@
       "def": "Information given to the client about their performance. Most effective feedback is specific, succinct/quick, and followed by an immediate opportunity to practice; begin with copious feedback and fade to occasional, subtle forms.",
       "source": "Strategies in Speech & Language Therapy (COMM DIS 3 lecture slides & notes); Duthie",
       "created": "2026-10-08T04:19:00"
+    },
+    {
+      "id": "ch3-ppt-g023",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Feedback/reinforcement",
+      "def": "Clinician responses that strengthen or correct a client's performance; one of the Four Essential Clinical Supports.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch4-tx-g007",
@@ -622,6 +811,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch3-ppt-g020",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Four Essential Clinical Supports",
+      "def": "The core set: (1) adjust the complexity of the task, (2) use cues/prompts, (3) vary the use of models, and (4) use feedback and/or reinforcement.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch6-ppt-g002",
       "image": null,
       "module": "mod-6",
@@ -672,6 +871,16 @@
       "created": "2026-10-08T04:14:55"
     },
     {
+      "id": "ch3-ppt-g011",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Goal",
+      "def": "The target level of performance the client is working toward in therapy.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch4-tx-g015",
       "image": null,
       "module": "mod-4",
@@ -690,6 +899,16 @@
       "def": "Health Insurance Portability and Accountability Act — passed in 1996 and updated in 2003 to improve the flow of patient health information while protecting patients' privacy rights.",
       "source": "HIPAA: Patient Confidentiality (COMM DIS 3 lecture slides)",
       "created": "2026-10-08T04:14:55"
+    },
+    {
+      "id": "ch3-ppt-g006",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Identity-first language",
+      "def": "Naming the identity before the person (e.g., 'an autistic child'). Used when the client or community prefers it.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch2-tx-g001",
@@ -760,6 +979,16 @@
       "def": "Reinforcing some but not all responses (the 'gambling' schedule); variable schedules are often the most powerful.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch3-ppt-g026",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Internal evidence",
+      "def": "Data and observations collected on your individual client; one input to EBP.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch7-ppt-g011",
@@ -902,6 +1131,16 @@
       "created": "2026-10-08T04:19:00"
     },
     {
+      "id": "ch3-ppt-g022",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Models",
+      "def": "Clinician demonstrations of a target behavior; varying their use is one of the Four Essential Clinical Supports.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch6-ppt-g001",
       "image": null,
       "module": "mod-6",
@@ -1022,6 +1261,16 @@
       "created": "2026-10-08T04:32:21"
     },
     {
+      "id": "ch3-ppt-g005",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Person-first language",
+      "def": "Naming the person before the disability (e.g., 'a child with autism'). Choice between person-first and identity-first follows the client's or community's preference.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch1-ppt-g015",
       "image": null,
       "module": "mod-1",
@@ -1092,6 +1341,16 @@
       "created": "2026-08-17T10:52:52"
     },
     {
+      "id": "ch3-ppt-g007",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Presumed competence",
+      "def": "The professional stance of assuming a client is capable of learning and understanding, and communicating directly with them accordingly.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
       "id": "ch6-cdt-g005",
       "image": null,
       "module": "mod-6",
@@ -1100,6 +1359,16 @@
       "def": "A biologically or psychologically driven reinforcer (e.g., food); generally NOT used in speech therapy.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch3-ppt-g001",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Professionalism",
+      "def": "The conduct, demeanor, and standards expected of a clinical professional. Ostergren frames it through four behavioral categories: appearance, communication, self-assessment, and conflict resolution.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch2-ppt-g017",
@@ -1360,6 +1629,16 @@
       "def": "Items, events, or actions people learn to enjoy — tangible, activity, token/conditioned, and social reinforcers.",
       "source": "Clinician Directed Therapies (COMM DIS 3 lecture slides & notes); Skinner/behaviorism",
       "created": "2026-10-08T04:22:21"
+    },
+    {
+      "id": "ch3-ppt-g008",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Self-assessment",
+      "def": "A clinician's ongoing evaluation of their own performance for professional growth. Ostergren: clinicians who rely solely on others to improve will be limited in their growth.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     },
     {
       "id": "ch2-ppt-g013",
@@ -1690,6 +1969,16 @@
       "def": "The vocal characteristics produced by the larynx, including pitch, loudness, and quality. One of the four components of speech.",
       "source": "Module 1 Review (COMM DIS 3 lecture slides)",
       "created": "2026-08-17T10:52:52"
+    },
+    {
+      "id": "ch3-ppt-g012",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch3-ppt-zpd.png",
+      "module": "mod-3",
+      "chapter": "3",
+      "term": "Zone of Proximal Development (ZPD)",
+      "def": "Vygotsky's concept: the gap between what a learner can do independently and what they can do with support/scaffolding. Therapy targets this zone.",
+      "source": "Vygotsky, Zone of Proximal Development",
+      "created": "2026-10-07T19:01:33"
     }
   ],
   "flashcards": [
@@ -2782,6 +3071,176 @@
       "back": "Event-based (familiar routines/events) and literacy-based (familiar story lines/books).",
       "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
       "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch3-ppt-f001",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What are the four professional behavioral categories (Ostergren)?",
+      "back": "Appearance, Communication, Self-assessment, and Conflict resolution.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f002",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What five things build clinical CREDIBILITY?",
+      "back": "Maintain a positive attitude, project a professional image, convey a willingness to learn, demonstrate initiative, and exhibit organization.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f003",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What are the appearance guidelines for a clinician?",
+      "back": "Check the setting's dress code, read the room and blend in (don't be distracting), fit clothing to your work, and be conservative — 'would I want my loved one working with me?'",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f004",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Best practices for clinical writing?",
+      "back": "Proofread; use word-processor functions; ask a colleague to proof; wait ~24 hours before proofing; read it aloud; match formality to your audience; treat instructor feedback as coaching.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f005",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Person-first vs. identity-first language — how do you choose?",
+      "back": "Person-first names the person before the disability ('person with aphasia'); identity-first names the identity first ('autistic person'). Follow the client's or community's stated preference.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f006",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Key principles for communicating with/about clients?",
+      "back": "Use presumed competence, direct communication to the client (not just the caregiver), and age-appropriate language modified to accommodate ability.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f007",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Why does self-assessment matter (Ostergren)?",
+      "back": "Clinicians who rely solely on others in their environment to improve will ultimately be limited in their professional growth.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f008",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What is a baseline vs. a goal in therapy?",
+      "back": "Baseline = the client's starting performance level before treatment; Goal = the target performance level they're working toward.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f009",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch3-ppt-zpd.png",
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What is Vygotsky's Zone of Proximal Development (ZPD)?",
+      "back": "The gap between what a learner can do independently and what they can do with support/scaffolding — the zone therapy targets.",
+      "source": "Vygotsky, Zone of Proximal Development",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f010",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What does CHAT stand for and describe?",
+      "back": "Clinician's Hierarchy for Advancing Treatment — a 5-level framework from beginning a new skill (Level 1) to independence (Level 5).",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f011",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Name the five CHAT levels in order.",
+      "back": "L1 Beginning a New Goal → L2 A Conscious Effort → L3 Moving Along → L4 Carrying It Over → L5 Getting There!",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f012",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "As a client progresses, how does clinical support change?",
+      "back": "It moves from maximum support toward minimum support as the client approaches the goal.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f013",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Give four examples of clinical supports.",
+      "back": "Any four: physical proximity, reduced speaking rate, pausing, gesturing, wait time, arranging the environment.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f014",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What are the Four Essential Clinical Supports?",
+      "back": "Adjust the complexity of the task, use cues/prompts, vary the use of models, and use feedback and/or reinforcement.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f015",
+      "image": "https://thetripleb.github.io/COMMDIS3/images/ch3-ppt-ebp-triangle.png",
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "What three components make up Evidence-Based Practice?",
+      "back": "Clinical expertise, evidence (external + internal), and client/patient/caregiver perspectives.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f016",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "External vs. internal evidence in EBP?",
+      "back": "External = best available information from the scientific literature; Internal = data and observations collected on your individual client.",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-f017",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "front": "Which two ASHA documents guide ethical practice?",
+      "back": "The SLP Code of Ethics and the SLPA Code of Conduct.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
     }
   ],
   "questions": [
@@ -5532,9 +5991,401 @@
       "answer": "General language stimulation provides a broadly language-rich environment with no expected response, using self-talk, parallel talk, labeling, and expansion (semantic and morphosyntactic). Focused language stimulation also provides a language-rich environment but emphasizes a PARTICULAR target: the clinician pre-selects materials conducive to the target and emphasizes it heavily, still with no expected response.",
       "source": "Strategies & Techniques in Naturalistic Therapy (COMM DIS 3 lecture slides & class notes)",
       "created": "2026-10-08T04:32:21"
+    },
+    {
+      "id": "ch3-ppt-q001",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "Which is one of the four professional behavioral categories (Ostergren)?",
+      "options": [
+        "Self-assessment",
+        "Billing",
+        "Scheduling",
+        "Diagnosis"
+      ],
+      "answer": "Self-assessment",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q002",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "Vygotsky's Zone of Proximal Development describes:",
+      "options": [
+        "The gap between independent and supported performance",
+        "A billing code",
+        "A dress code",
+        "A diagnostic category"
+      ],
+      "answer": "The gap between independent and supported performance",
+      "source": "Vygotsky, Zone of Proximal Development",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q003",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "Which is NOT one of the Four Essential Clinical Supports?",
+      "options": [
+        "Diagnosing the disorder",
+        "Adjusting task complexity",
+        "Using cues/prompts",
+        "Using feedback/reinforcement"
+      ],
+      "answer": "Diagnosing the disorder",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q004",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "Evidence-Based Practice integrates clinical expertise, client/caregiver perspectives, and:",
+      "options": [
+        "Evidence (external & internal)",
+        "Insurance rules",
+        "The dress code",
+        "The name-tag rule"
+      ],
+      "answer": "Evidence (external & internal)",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q005",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "In the CHAT framework, Level 1 is:",
+      "options": [
+        "Beginning a New Goal",
+        "Getting There!",
+        "Carrying It Over",
+        "Moving Along"
+      ],
+      "answer": "Beginning a New Goal",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q006",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "'A child with autism' is an example of:",
+      "options": [
+        "Person-first language",
+        "Identity-first language",
+        "Informal language",
+        "A diagnosis"
+      ],
+      "answer": "Person-first language",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q007",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "As a client progresses in therapy, clinical support generally moves from:",
+      "options": [
+        "Maximum to minimum",
+        "Minimum to maximum",
+        "None to total",
+        "Random amounts"
+      ],
+      "answer": "Maximum to minimum",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q008",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "mc",
+      "text": "Which behavior builds clinical credibility?",
+      "options": [
+        "Demonstrating initiative",
+        "Avoiding feedback",
+        "Dressing distractingly",
+        "Withholding effort"
+      ],
+      "answer": "Demonstrating initiative",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q009",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "tf",
+      "text": "Internal evidence refers to data and observations collected on your individual client.",
+      "answer": "True",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q010",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "tf",
+      "text": "You should proofread clinical writing immediately upon finishing, never waiting.",
+      "answer": "False",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q011",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "tf",
+      "text": "Presumed competence means assuming the client is capable and communicating with them accordingly.",
+      "answer": "True",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q012",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "tf",
+      "text": "External evidence comes from the scientific literature.",
+      "answer": "True",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q013",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "tf",
+      "text": "Identity-first language should always override the client's stated preference.",
+      "answer": "False",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q014",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "fitb",
+      "text": "Vygotsky's ______ of Proximal Development describes the gap between independent and supported performance.",
+      "answer": "zone",
+      "source": "Vygotsky, Zone of Proximal Development",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q015",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "fitb",
+      "text": "The 5-level framework from new skill to independence is the Clinician's Hierarchy for ______ Treatment.",
+      "answer": "advancing",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q016",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "fitb",
+      "text": "EBP combines clinical expertise, client/caregiver perspectives, and ______.",
+      "answer": "evidence",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q017",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "fitb",
+      "text": "The highest CHAT level (Level 5) is titled 'Getting ______!'",
+      "answer": "there",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q018",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "fitb",
+      "text": "______-first language names the person before the disability.",
+      "answer": "person",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q019",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "match",
+      "text": "Match each CHAT level to its name.",
+      "pairs": [
+        [
+          "Level 1",
+          "Beginning a New Goal"
+        ],
+        [
+          "Level 2",
+          "A Conscious Effort"
+        ],
+        [
+          "Level 3",
+          "Moving Along"
+        ],
+        [
+          "Level 4",
+          "Carrying It Over"
+        ],
+        [
+          "Level 5",
+          "Getting There!"
+        ]
+      ],
+      "answer": "",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q020",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "match",
+      "text": "Match each EBP component to its description.",
+      "pairs": [
+        [
+          "Clinical expertise",
+          "Knowledge & judgment from training"
+        ],
+        [
+          "External evidence",
+          "The scientific literature"
+        ],
+        [
+          "Internal evidence",
+          "Data on your individual client"
+        ],
+        [
+          "Client perspectives",
+          "Values, priorities & expectations"
+        ]
+      ],
+      "answer": "",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q021",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "match",
+      "text": "Match each professional behavioral category to an example.",
+      "pairs": [
+        [
+          "Appearance",
+          "Dressing conservatively for the setting"
+        ],
+        [
+          "Communication",
+          "Using person-first language"
+        ],
+        [
+          "Self-assessment",
+          "Reflecting on your own performance"
+        ],
+        [
+          "Conflict resolution",
+          "Managing a disagreement professionally"
+        ]
+      ],
+      "answer": "",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q022",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "sa",
+      "text": "Define evidence-based practice and name its three components.",
+      "answer": "EBP is the integration of three inputs to guide clinical decisions: clinical expertise (knowledge/judgment from training), evidence (external from the scientific literature + internal from data on your client), and client/patient/caregiver perspectives (their values, priorities, and expectations).",
+      "source": "ASHA Evidence-Based Practice (asha.org/research/ebp)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q023",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "sa",
+      "text": "List the Four Essential Clinical Supports.",
+      "answer": "(1) Adjust the complexity of the task; (2) use cues/prompts; (3) vary the use of models; (4) use feedback and/or reinforcement.",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-q024",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "type": "sa",
+      "text": "Explain person-first vs. identity-first language and how a clinician chooses between them.",
+      "answer": "Person-first language names the person before the disability ('a person with autism'); identity-first names the identity first ('an autistic person'). The clinician follows the client's or community's stated preference rather than imposing one form.",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33"
     }
   ],
   "notes": [
+    {
+      "id": "ch3-ppt-note002",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "title": "Module 3 — Therapy Hierarchy, Clinical Supports & EBP (Study Notes)",
+      "body": "THERAPY AS A HIERARCHY, CLINICAL SUPPORTS & EBP — STUDY NOTES\n(COMM DIS 3, Module 3 — Speech & Language Therapy: A Hierarchy)\n\n======================================================\n1. THERAPY AS A HIERARCHY\n======================================================\n• Therapy moves a client from a BASELINE (starting performance) to a GOAL (target performance)\n• Support shifts from MAXIMUM support → MINIMUM support as the client progresses\n\n======================================================\n2. ZONE OF PROXIMAL DEVELOPMENT (Vygotsky)\n======================================================\n• The gap between what a learner can do INDEPENDENTLY and what they can do WITH SUPPORT\n• Effective therapy targets this zone with scaffolding\n\n======================================================\n3. CHAT — CLINICIAN'S HIERARCHY FOR ADVANCING TREATMENT\n======================================================\nFive levels from New Skill (1) → Independence (5):\n• Level 1: Beginning a New Goal\n• Level 2: A Conscious Effort\n• Level 3: Moving Along\n• Level 4: Carrying It Over\n• Level 5: Getting There!\n\n======================================================\n4. CLINICAL SUPPORTS\n======================================================\nTechniques to increase the likelihood of client success:\n• Physical proximity • Reduced speaking rate • Pausing\n• Gesturing • Wait time • Arranging the environment\n\nTHE FOUR ESSENTIAL CLINICAL SUPPORTS:\n• Adjust the complexity of the task\n• Use cues/prompts\n• Vary the use of models\n• Use feedback and/or reinforcement\n\n======================================================\n5. EVIDENCE-BASED PRACTICE (EBP)\n======================================================\nIntegration of three inputs:\n• Clinical expertise — knowledge, judgment, reasoning from training/experience\n• Evidence — EXTERNAL (scientific literature) + INTERNAL (data on your client)\n• Client/patient/caregiver perspectives — values, priorities, expectations\n\n======================================================\n6. ETHICAL PRACTICE\n======================================================\n• Guided by ASHA: the SLP Code of Ethics and the SLPA Code of Conduct\n\n★ KEY EXAM POINTS\n• Baseline → Goal; support goes max → min.\n• ZPD = independent vs. supported performance gap (Vygotsky).\n• CHAT: Beginning a New Goal → Conscious Effort → Moving Along → Carrying It Over → Getting There!\n• 4 Essential Supports: task complexity, cues/prompts, models, feedback/reinforcement.\n• EBP = clinical expertise + evidence (external+internal) + client perspectives.\n",
+      "source": "Speech & Language Therapy: A Hierarchy (COMM DIS 3 lecture slides)",
+      "created": "2026-10-07T19:01:33",
+      "updated": "2026-10-07T19:01:33"
+    },
+    {
+      "id": "ch3-ppt-note001",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "title": "Module 3 — Professionalism in SLP (Study Notes)",
+      "body": "PROFESSIONALISM IN SPEECH-LANGUAGE PATHOLOGY — STUDY NOTES\n(COMM DIS 3, Module 3 — Professionalism)\n\n======================================================\n1. CREDIBILITY\n======================================================\nBuild credibility by:\n• Maintaining a positive attitude\n• Projecting a professional image\n• Conveying a willingness to learn new things\n• Demonstrating initiative\n• Exhibiting organization\n\n======================================================\n2. FOUR BEHAVIORAL CATEGORIES (Ostergren, p.131)\n======================================================\n\"Although you remain an individual with unique characteristics, there will be expectations for each of these behavioral categories\":\n• Appearance\n• Communication\n• Self-assessment\n• Conflict resolution\n\n======================================================\n3. APPEARANCE\n======================================================\n• Check for the dress code in your setting\n• Read the room — blend in, don't be distracting\n• Fit your clothing to your work; be conservative\n• \"Would I want my loved one working with me?\"\n• Your clothing communicates\n\n======================================================\n4. WRITTEN / CLINICAL COMMUNICATION\n======================================================\n• Proofread; use word-processor functions\n• Ask a supervisor or colleague to proofread\n• Don't proofread right when you finish — wait ~24 hours\n• Read it out loud\n• Match formality to your AUDIENCE — do they understand the vocabulary?\n• Use abbreviations/acronyms appropriately\n• Treat instructor feedback as coaching\nELECTRONIC: be professional in email and on social media\n\n======================================================\n5. COMMUNICATION WITH & ABOUT CLIENTS\n======================================================\n• Person-first vs. identity-first language (follow client/community preference)\n• Presumed competence\n• Direct communication to the CLIENT, not just their care provider\n• Age-appropriate communication, modified to accommodate ability\n\n======================================================\n6. SELF-ASSESSMENT & SELF-IMPROVEMENT (Ostergren, p.136)\n======================================================\n• \"Clinicians who rely solely on others in their environment to improve their performance will ultimately be limited in their professional growth.\"\n\n★ KEY EXAM POINTS\n• Four behavioral categories: Appearance, Communication, Self-assessment, Conflict resolution.\n• Credibility = attitude + image + willingness to learn + initiative + organization.\n• Clinical writing: wait 24 hrs, read aloud, match audience, colleague proof.\n• Person-first vs identity-first = client/community preference; presume competence; talk to the client.\n",
+      "source": "Module 3: Professionalism in SLP (COMM DIS 3 lecture slides); Ostergren",
+      "created": "2026-10-07T19:01:33",
+      "updated": "2026-10-07T19:01:33"
+    },
     {
       "id": "ch7-ppt-note001",
       "image": null,
